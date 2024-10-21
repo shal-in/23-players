@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/main.css">
+    <title>23 players ~ 23 seconds</title>
+</head>
+<body>
+    <section>
+        <div id="main-container">
+            <div class="container-wrapper active" id="start-wrapper">
+                <h1 class="title">23 players ~ 23 seconds</h1>
+
+                <div class="rules">
+                    <h2>Name a player who matches the prompt</h2>
+                    <h2>The longer the name, the more points</h2>
+                    <h2>The faster you are, the more points</h2>
+                    <p>*Only players included in 2024/25 Premier League squads are valid answers</p>
+                </div>
+
+                <h1 class="ready-text">Click/Enter to begin!</h1>
+
+                <div class="bottom-row">
+                    <h2>HIGH: <span id="high-score">123</span></h2>
+
+                    <!-- Mute -->
+                </div>
+            </div>
+
+            <div class="container-wrapper" id="ready-wrapper">
+                <h1 class="title">GET READY!</h1>
+
+                <div class="input-container">
+                    <input type="text" class="player-input" disabled>
+                    <div class="players-list">
+            
+                    </div>
+                </div>
+
+                <h1 class="ready-text">Click/Enter to begin!</h1>
+
+                <div class="bottom-row">
+                    <h2 id="timer">23</h2>
+                </div>
+            </div>
+
+            <div class="container-wrapper" id="game-wrapper">
+                <h1 class="title">EXAMPLE PROMPT</h1>
+
+                <div class="input-container">
+                    <input type="text" class="player-input">
+                    <div class="players-list">
+           
+                    </div>
+                </div>
+
+                <div class="bottom-row">
+                    <h2 id="timer">23</h2>
+                </div>
+            </div>
+
+            <div class="container-wrapper" id="results-wrapper">
+                <h1 class="title">RESULTS</h1>
+
+                <div class="results-container">
+                    <div class="inner left">
+                        <p class="results-text">01.</p>
+                        <p class="results-text">02.</p>
+                        <p class="results-text">03.</p>
+                        <p class="results-text">04.</p>
+                        <p class="results-text">05.</p>
+                        <p class="results-text">06.</p>
+                        <p class="results-text">07.</p>
+                        <p class="results-text">08.</p>
+                        <p class="results-text">09.</p>
+                        <p class="results-text">10.</p>
+                        <p class="results-text">11.</p>
+                        <p class="results-text">12.</p>
+                    </div>
+                    <div class="inner right">
+                        <p class="results-text">13.</p>
+                        <p class="results-text">14.</p>
+                        <p class="results-text">15.</p>
+                        <p class="results-text">16.</p>
+                        <p class="results-text">17.</p>
+                        <p class="results-text">18.</p>
+                        <p class="results-text">19.</p>
+                        <p class="results-text">20.</p>
+                        <p class="results-text">21.</p>
+                        <p class="results-text">22.</p>
+                        <p class="results-text">23.</p>
+                    </div>
+                </div>
+                <div class="score">
+                    <p class="time-bonus">TIME BONUS: <span>0</span></p>
+                    <h2 class="total-score">TOTAL SCORE: <span>0</span></h2>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        
+
+        <div id="keyboard" class="">
+            <div class="row">
+                <div class="key">Q</div>
+                <div class="key">W</div>
+                <div class="key">E</div>
+                <div class="key">R</div>
+                <div class="key">T</div>
+                <div class="key">Y</div>
+                <div class="key">U</div>
+                <div class="key">I</div>
+                <div class="key">O</div>
+                <div class="key">P</div>
+            </div>
+            <div class="row">
+                <div class="key">A</div>
+                <div class="key">S</div>
+                <div class="key">D</div>
+                <div class="key">F</div>
+                <div class="key">G</div>
+                <div class="key">H</div>
+                <div class="key">J</div>
+                <div class="key">K</div>
+                <div class="key">L</div>
+                <div class="key">-</div>                
+            </div>
+            <div class="row">
+                <div class="key clear">Clear</div>
+                <div class="key">Z</div>
+                <div class="key">X</div>
+                <div class="key">C</div>
+                <div class="key">V</div>
+                <div class="key">B</div>
+                <div class="key">N</div>
+                <div class="key">M</div>                
+                <div class="key erase">Erase</div>
+            </div>
+            <div class="row">
+                <div class="key up">&uarr;</div>
+                <div class="key down">&darr;</div>
+                <div class="key space">Space</div>
+                <div class="key enter">Enter</div>
+            </div>
+        </div>
+    </section>
+
+
+    <script src="/static/js/players.js"></script>
+    <script src="/static/js/index.js"></script>
+    <script src="/static/js/game.js"></script>
+</body>
+</html>

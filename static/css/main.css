@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 16px;
+}
+
+section{
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: auto;
+}
+
+#main-container{
+    width: 90%;
+    height: 400px;
+    margin-top: 20px;
+    border: 24px solid black;
+}
+
+.container-wrapper{
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.container-wrapper.active{
+    display: flex;
+    width: 100%;
+    height: 94%;
+    border: 2px solid red;
+}
+
+.container-wrapper .title{
+    font-size: 4rem;
+    border: 1px solid black;   
+}
+
+.container-wrapper .rules{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.container-wrapper .ready-text{
+    border: 1px solid black;
+    font-size: 3rem;
+}
+
+.container-wrapper .bottom-row{
+    border: 1px solid black;
+}
+
+#timer{
+    font-size: 2rem;
+}
+
+.input-container{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.input-container input{
+    width: 100%;
+}
+
+.input-container .players-list{
+    width: 100%;
+    border: 1px solid red;
+}
+
+#game-wrapper .input-container .players-list{
+    height: 120px;
+    overflow-y: auto;
+}
+
+.players-list li{
+    display: flex;
+    background-color: gainsboro;
+    margin-bottom: 5px;
+}
+
+.players-list li .name{
+    display: flex;
+}
+
+.players-list li .name .first{
+    margin-right: 4px;
+}
+
+.players-list li .name .last{
+    font-weight: bold;
+}
+
+.players-list li.active, .players-list li:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+/* RESULTS */
+.results-container{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    border: 1px solid purple;
+    width: 50%;
+}
+
+.results-container .inner{
+    width: 50%;
+}
+
+.results-text{
+    opacity: 0;
+}
+
+.results-text.active{
+    opacity: 1;
+}
+
+.time-bonus{
+    opacity: 0;
+}
+
+.time-bonus.active{
+    opacity: 1;
+}
+
+
+/* keyboard */
+#keyboard {
+    display: none;
+    margin-top: 20px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#keyboard.active{
+    display: inline-block;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}
+
+.key {
+    padding: 15px;
+    margin: 5px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    background-color: #e0e0e0;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s;
+}
+
+.key:hover {
+    background-color: #d1d1d1;
+}
+
+.space {
+    flex-grow: 1;
+}

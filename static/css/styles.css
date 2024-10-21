@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+     background-color: rebeccapurple;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    margin: auto;
+    width: 1000px;
+    height: 700px;
+
+    border: 1px solid red;
+}
+
+.main-container{
+    height: 500px;
+    width: 90%;
+    border: 30px solid black;
+}
+
+.container-wrapper{
+    display: none;
+    flex-direction: column;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+/* Intro container */
+#game-wrapper{
+    display: flex;
+}
+
+.input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width: 500px;
+    margin-top: 20px;
+
+    border: 2px solid black
+}
+
+.input-container input{
+    width: 100%;
+}
+
+.input-container .players-list{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.players-list .player{
+    height: 30px;
+    width: 100%;
+    margin-bottom: 5px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.player.active, .player:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.player .name{
+    display: flex;
+    margin-left: 25px;
+}
+
+.name .first{
+    margin-right: 5px;
+}
+
+.name .last{
+    font-weight: bolder;
+}
+
+.player .image{
+    height: 25px;
+    width: auto;
+    margin-right: 25px;
+}
+
+.player .image img{
+    height: 100%;
+    width: auto;
+}
