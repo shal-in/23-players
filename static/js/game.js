@@ -81,12 +81,13 @@ function updatePlayersList() {
     if (inputString.length < 2) {return}
 
     players.forEach(player => {
-        let firstName = player["name"]["first"];
-        let lastName = player["name"]["last"];
-        if (lastName.toLowerCase().startsWith(inputString)) {
-            createPlayerListElement(player);
-        } else if (firstName && firstName.toLowerCase().startsWith(inputString)) {
-            createPlayerListElement(player);
+        let searchList = player["name"]["search"];
+
+        for (let searchItem of searchList) {
+            if (searchItem && searchItem.toLowerCase().startsWith(inputString)) {
+                createPlayerListElement(player);
+                return
+            }
         }
     })
 

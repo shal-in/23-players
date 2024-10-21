@@ -3,7 +3,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "William",
-                "last": "Saliba"
+                "last": "Saliba",
+                "search": [
+                    "William",
+                    "Saliba",
+                    "William Saliba"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462424.png",
             "kit_number": "2",
@@ -130,7 +135,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kieran",
-                "last": "Tierney"
+                "last": "Tierney",
+                "search": [
+                    "Kieran",
+                    "Tierney",
+                    "Kieran Tierney"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p192895.png",
             "kit_number": "17",
@@ -257,7 +267,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "White"
+                "last": "White",
+                "search": [
+                    "Ben",
+                    "White",
+                    "Ben White"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p198869.png",
             "kit_number": "4",
@@ -418,7 +433,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Gabriel",
-                "last": "Magalh\u00e3es"
+                "last": "Magalh\u00e3es",
+                "search": [
+                    "Gabriel",
+                    "Magalh\u00e3es",
+                    "Gabriel Magalh\u00e3es",
+                    "Magalhaes",
+                    "Gabriel Magalhaes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226597.png",
             "kit_number": "6",
@@ -530,7 +552,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jurri\u00ebn",
-                "last": "Timber"
+                "last": "Timber",
+                "search": [
+                    "Jurri\u00ebn",
+                    "Timber",
+                    "Jurri\u00ebn Timber",
+                    "Jurrien",
+                    "Jurrien Timber"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p445122.png",
             "kit_number": "12",
@@ -597,7 +626,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jakub",
-                "last": "Kiwior"
+                "last": "Kiwior",
+                "search": [
+                    "Jakub",
+                    "Kiwior",
+                    "Jakub Kiwior"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440854.png",
             "kit_number": "15",
@@ -679,7 +713,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Takehiro",
-                "last": "Tomiyasu"
+                "last": "Tomiyasu",
+                "search": [
+                    "Takehiro",
+                    "Tomiyasu",
+                    "Takehiro Tomiyasu"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223723.png",
             "kit_number": "18",
@@ -776,7 +815,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Oleksandr",
-                "last": "Zinchenko"
+                "last": "Zinchenko",
+                "search": [
+                    "Oleksandr",
+                    "Zinchenko",
+                    "Oleksandr Zinchenko"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p206325.png",
             "kit_number": "17",
@@ -957,7 +1001,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Thomas",
-                "last": "Partey"
+                "last": "Partey",
+                "search": [
+                    "Thomas",
+                    "Partey",
+                    "Thomas Partey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167199.png",
             "kit_number": "5",
@@ -1063,7 +1112,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bukayo",
-                "last": "Saka"
+                "last": "Saka",
+                "search": [
+                    "Bukayo",
+                    "Saka",
+                    "Bukayo Saka"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
             "kit_number": "7",
@@ -1201,7 +1255,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Martin",
-                "last": "\u00d8degaard"
+                "last": "\u00d8degaard",
+                "search": [
+                    "Martin",
+                    "\u00d8degaard",
+                    "Martin \u00d8degaard",
+                    "Odegaard",
+                    "Martin Odegaard"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184029.png",
             "kit_number": "8",
@@ -1311,7 +1372,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Jorginho"
+                "last": "Jorginho",
+                "search": [
+                    null,
+                    "Jorginho",
+                    "Jorginho"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p85955.png",
             "kit_number": "20",
@@ -1447,7 +1513,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kai",
-                "last": "Havertz"
+                "last": "Havertz",
+                "search": [
+                    "Kai",
+                    "Havertz",
+                    "Kai Havertz"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219847.png",
             "kit_number": "29",
@@ -1555,7 +1626,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Declan",
-                "last": "Rice"
+                "last": "Rice",
+                "search": [
+                    "Declan",
+                    "Rice",
+                    "Declan Rice"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204480.png",
             "kit_number": "41",
@@ -1719,7 +1795,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Gabriel",
-                "last": "Jesus"
+                "last": "Jesus",
+                "search": [
+                    "Gabriel",
+                    "Jesus",
+                    "Gabriel Jesus"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205651.png",
             "kit_number": "9",
@@ -1890,7 +1971,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Gabriel",
-                "last": "Martinelli"
+                "last": "Martinelli",
+                "search": [
+                    "Gabriel",
+                    "Martinelli",
+                    "Gabriel Martinelli"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444145.png",
             "kit_number": "11",
@@ -2010,7 +2096,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Leandro",
-                "last": "Trossard"
+                "last": "Trossard",
+                "search": [
+                    "Leandro",
+                    "Trossard",
+                    "Leandro Trossard"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p116216.png",
             "kit_number": "19",
@@ -2132,7 +2223,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Myles",
-                "last": "Lewis-Skelly"
+                "last": "Lewis-Skelly",
+                "search": [
+                    "Myles",
+                    "Lewis-Skelly",
+                    "Myles Lewis-Skelly"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499169.png",
             "kit_number": "59",
@@ -2212,7 +2308,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ethan",
-                "last": "Nwaneri"
+                "last": "Nwaneri",
+                "search": [
+                    "Ethan",
+                    "Nwaneri",
+                    "Ethan Nwaneri"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499175.png",
             "kit_number": "63",
@@ -2290,7 +2391,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "David",
-                "last": "Raya"
+                "last": "Raya",
+                "search": [
+                    "David",
+                    "Raya",
+                    "David Raya"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154561.png",
             "kit_number": "22",
@@ -2407,7 +2513,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tommy",
-                "last": "Setford"
+                "last": "Setford",
+                "search": [
+                    "Tommy",
+                    "Setford",
+                    "Tommy Setford"
+                ]
             },
             "image": null,
             "kit_number": "36",
@@ -2463,7 +2574,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Riccardo",
-                "last": "Calafiori"
+                "last": "Calafiori",
+                "search": [
+                    "Riccardo",
+                    "Calafiori",
+                    "Riccardo Calafiori"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p466075.png",
             "kit_number": "33",
@@ -2515,7 +2631,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mikel",
-                "last": "Merino"
+                "last": "Merino",
+                "search": [
+                    "Mikel",
+                    "Merino",
+                    "Mikel Merino"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p195384.png",
             "kit_number": "23",
@@ -2594,7 +2715,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Neto"
+                "last": "Neto",
+                "search": [
+                    null,
+                    "Neto",
+                    "Neto"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p69752.png",
             "kit_number": "32",
@@ -2686,7 +2812,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Raheem",
-                "last": "Sterling"
+                "last": "Sterling",
+                "search": [
+                    "Raheem",
+                    "Sterling",
+                    "Raheem Sterling"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p103955.png",
             "kit_number": "30",
@@ -2935,7 +3066,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Salah-Eddine",
-                "last": "Oulad M'hand"
+                "last": "Oulad M'hand",
+                "search": [
+                    "Salah-Eddine",
+                    "Oulad M'hand",
+                    "Salah-Eddine Oulad M'hand"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p498046.png",
             "kit_number": "56",
@@ -3013,7 +3149,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Maldini",
-                "last": "Kacurri"
+                "last": "Kacurri",
+                "search": [
+                    "Maldini",
+                    "Kacurri",
+                    "Maldini Kacurri"
+                ]
             },
             "image": null,
             "kit_number": "47",
@@ -3065,7 +3206,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Emiliano",
-                "last": "Mart\u00ednez"
+                "last": "Mart\u00ednez",
+                "search": [
+                    "Emiliano",
+                    "Mart\u00ednez",
+                    "Emiliano Mart\u00ednez",
+                    "Martinez",
+                    "Emiliano Martinez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98980.png",
             "kit_number": "23",
@@ -3344,7 +3492,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Robin",
-                "last": "Olsen"
+                "last": "Olsen",
+                "search": [
+                    "Robin",
+                    "Olsen",
+                    "Robin Olsen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111782.png",
             "kit_number": "25",
@@ -3470,7 +3623,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matty",
-                "last": "Cash"
+                "last": "Cash",
+                "search": [
+                    "Matty",
+                    "Cash",
+                    "Matty Cash"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199796.png",
             "kit_number": "2",
@@ -3582,7 +3740,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Diego",
-                "last": "Carlos"
+                "last": "Carlos",
+                "search": [
+                    "Diego",
+                    "Carlos",
+                    "Diego Carlos"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p165659.png",
             "kit_number": "3",
@@ -3664,7 +3827,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ezri",
-                "last": "Konsa"
+                "last": "Konsa",
+                "search": [
+                    "Ezri",
+                    "Konsa",
+                    "Ezri Konsa"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199798.png",
             "kit_number": "4",
@@ -3791,7 +3959,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyrone",
-                "last": "Mings"
+                "last": "Mings",
+                "search": [
+                    "Tyrone",
+                    "Mings",
+                    "Tyrone Mings"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p149484.png",
             "kit_number": "5",
@@ -3980,7 +4153,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lucas",
-                "last": "Digne"
+                "last": "Digne",
+                "search": [
+                    "Lucas",
+                    "Digne",
+                    "Lucas Digne"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101188.png",
             "kit_number": "12",
@@ -4125,7 +4303,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pau",
-                "last": "Torres"
+                "last": "Torres",
+                "search": [
+                    "Pau",
+                    "Torres",
+                    "Pau Torres"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244954.png",
             "kit_number": "14",
@@ -4192,7 +4375,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kortney",
-                "last": "Hause"
+                "last": "Hause",
+                "search": [
+                    "Kortney",
+                    "Hause",
+                    "Kortney Hause"
+                ]
             },
             "image": null,
             "kit_number": "30",
@@ -4336,7 +4524,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "John",
-                "last": "McGinn"
+                "last": "McGinn",
+                "search": [
+                    "John",
+                    "McGinn",
+                    "John McGinn"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p122806.png",
             "kit_number": "7",
@@ -4456,7 +4649,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Youri",
-                "last": "Tielemans"
+                "last": "Tielemans",
+                "search": [
+                    "Youri",
+                    "Tielemans",
+                    "Youri Tielemans"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p166989.png",
             "kit_number": "8",
@@ -4591,7 +4789,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Emiliano",
-                "last": "Buend\u00eda"
+                "last": "Buend\u00eda",
+                "search": [
+                    "Emiliano",
+                    "Buend\u00eda",
+                    "Emiliano Buend\u00eda",
+                    "Buendia",
+                    "Emiliano Buendia"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p195546.png",
             "kit_number": "10",
@@ -4698,7 +4903,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jacob",
-                "last": "Ramsey"
+                "last": "Ramsey",
+                "search": [
+                    "Jacob",
+                    "Ramsey",
+                    "Jacob Ramsey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232653.png",
             "kit_number": "41",
@@ -4818,7 +5028,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Boubacar",
-                "last": "Kamara"
+                "last": "Kamara",
+                "search": [
+                    "Boubacar",
+                    "Kamara",
+                    "Boubacar Kamara"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226944.png",
             "kit_number": "44",
@@ -4896,7 +5111,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ollie",
-                "last": "Watkins"
+                "last": "Watkins",
+                "search": [
+                    "Ollie",
+                    "Watkins",
+                    "Ollie Watkins"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p178301.png",
             "kit_number": "11",
@@ -5006,7 +5226,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jhon",
-                "last": "Dur\u00e1n"
+                "last": "Dur\u00e1n",
+                "search": [
+                    "Jhon",
+                    "Dur\u00e1n",
+                    "Jhon Dur\u00e1n",
+                    "Duran",
+                    "Jhon Duran"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p476344.png",
             "kit_number": "9",
@@ -5084,7 +5311,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Leon",
-                "last": "Bailey"
+                "last": "Bailey",
+                "search": [
+                    "Leon",
+                    "Bailey",
+                    "Leon Bailey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215711.png",
             "kit_number": "31",
@@ -5176,7 +5408,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joe",
-                "last": "Gauci"
+                "last": "Gauci",
+                "search": [
+                    "Joe",
+                    "Gauci",
+                    "Joe Gauci"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462492.png",
             "kit_number": "18",
@@ -5249,7 +5486,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Morgan",
-                "last": "Rogers"
+                "last": "Rogers",
+                "search": [
+                    "Morgan",
+                    "Rogers",
+                    "Morgan Rogers"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244850.png",
             "kit_number": "27",
@@ -5345,7 +5587,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ian",
-                "last": "Maatsen"
+                "last": "Maatsen",
+                "search": [
+                    "Ian",
+                    "Maatsen",
+                    "Ian Maatsen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441302.png",
             "kit_number": "22",
@@ -5476,7 +5723,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ross",
-                "last": "Barkley"
+                "last": "Barkley",
+                "search": [
+                    "Ross",
+                    "Barkley",
+                    "Ross Barkley"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p88894.png",
             "kit_number": "6",
@@ -5728,7 +5980,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jaden",
-                "last": "Philogene"
+                "last": "Philogene",
+                "search": [
+                    "Jaden",
+                    "Philogene",
+                    "Jaden Philogene"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p481624.png",
             "kit_number": "19",
@@ -5834,7 +6091,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Amadou",
-                "last": "Onana"
+                "last": "Onana",
+                "search": [
+                    "Amadou",
+                    "Onana",
+                    "Amadou Onana"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p449871.png",
             "kit_number": "24",
@@ -5914,7 +6176,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sil",
-                "last": "Swinkels"
+                "last": "Swinkels",
+                "search": [
+                    "Sil",
+                    "Swinkels",
+                    "Sil Swinkels"
+                ]
             },
             "image": null,
             "kit_number": "50",
@@ -6028,7 +6295,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lamare",
-                "last": "Bogarde"
+                "last": "Bogarde",
+                "search": [
+                    "Lamare",
+                    "Bogarde",
+                    "Lamare Bogarde"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p515597.png",
             "kit_number": "26",
@@ -6122,7 +6394,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Oliwier",
-                "last": "Zych"
+                "last": "Zych",
+                "search": [
+                    "Oliwier",
+                    "Zych",
+                    "Oliwier Zych"
+                ]
             },
             "image": null,
             "kit_number": "48",
@@ -6247,7 +6524,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kadan",
-                "last": "Young"
+                "last": "Young",
+                "search": [
+                    "Kadan",
+                    "Young",
+                    "Kadan Young"
+                ]
             },
             "image": null,
             "kit_number": "72",
@@ -6325,7 +6607,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Triston",
-                "last": "Rowe"
+                "last": "Rowe",
+                "search": [
+                    "Triston",
+                    "Rowe",
+                    "Triston Rowe"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -6377,7 +6664,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Aidan",
-                "last": "Borland"
+                "last": "Borland",
+                "search": [
+                    "Aidan",
+                    "Borland",
+                    "Aidan Borland"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -6427,7 +6719,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jamaldeen",
-                "last": "Jimoh"
+                "last": "Jimoh",
+                "search": [
+                    "Jamaldeen",
+                    "Jimoh",
+                    "Jamaldeen Jimoh"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -6477,7 +6774,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Travis",
-                "last": "Patterson"
+                "last": "Patterson",
+                "search": [
+                    "Travis",
+                    "Patterson",
+                    "Travis Patterson"
+                ]
             },
             "image": null,
             "kit_number": "66",
@@ -6559,7 +6861,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Broggio"
+                "last": "Broggio",
+                "search": [
+                    "Ben",
+                    "Broggio",
+                    "Ben Broggio"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -6609,7 +6916,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kobei",
-                "last": "Moore"
+                "last": "Moore",
+                "search": [
+                    "Kobei",
+                    "Moore",
+                    "Kobei Moore"
+                ]
             },
             "image": null,
             "kit_number": "77",
@@ -6659,7 +6971,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Max",
-                "last": "Aarons"
+                "last": "Aarons",
+                "search": [
+                    "Max",
+                    "Aarons",
+                    "Max Aarons"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232980.png",
             "kit_number": "37",
@@ -6757,7 +7074,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Milos",
-                "last": "Kerkez"
+                "last": "Kerkez",
+                "search": [
+                    "Milos",
+                    "Kerkez",
+                    "Milos Kerkez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p544877.png",
             "kit_number": "3",
@@ -6824,7 +7146,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Adam",
-                "last": "Smith"
+                "last": "Smith",
+                "search": [
+                    "Adam",
+                    "Smith",
+                    "Adam Smith"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p54469.png",
             "kit_number": "15",
@@ -7090,7 +7417,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Hill"
+                "last": "Hill",
+                "search": [
+                    "James",
+                    "Hill",
+                    "James Hill"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463981.png",
             "kit_number": "23",
@@ -7172,7 +7504,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marcos",
-                "last": "Senesi"
+                "last": "Senesi",
+                "search": [
+                    "Marcos",
+                    "Senesi",
+                    "Marcos Senesi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p221466.png",
             "kit_number": "5",
@@ -7254,7 +7591,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Illia",
-                "last": "Zabarnyi"
+                "last": "Zabarnyi",
+                "search": [
+                    "Illia",
+                    "Zabarnyi",
+                    "Illia Zabarnyi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477580.png",
             "kit_number": "27",
@@ -7336,7 +7678,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lewis",
-                "last": "Cook"
+                "last": "Cook",
+                "search": [
+                    "Lewis",
+                    "Cook",
+                    "Lewis Cook"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p155408.png",
             "kit_number": "4",
@@ -7470,7 +7817,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "David",
-                "last": "Brooks"
+                "last": "Brooks",
+                "search": [
+                    "David",
+                    "Brooks",
+                    "David Brooks"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111317.png",
             "kit_number": "7",
@@ -7576,7 +7928,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Christie"
+                "last": "Christie",
+                "search": [
+                    "Ryan",
+                    "Christie",
+                    "Ryan Christie"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p158499.png",
             "kit_number": "10",
@@ -7654,7 +8011,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alex",
-                "last": "Scott"
+                "last": "Scott",
+                "search": [
+                    "Alex",
+                    "Scott",
+                    "Alex Scott"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p503139.png",
             "kit_number": "8",
@@ -7718,7 +8080,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marcus",
-                "last": "Tavernier"
+                "last": "Tavernier",
+                "search": [
+                    "Marcus",
+                    "Tavernier",
+                    "Marcus Tavernier"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p201658.png",
             "kit_number": "16",
@@ -7796,7 +8163,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Philip",
-                "last": "Billing"
+                "last": "Billing",
+                "search": [
+                    "Philip",
+                    "Billing",
+                    "Philip Billing"
+                ]
             },
             "image": null,
             "kit_number": "29",
@@ -7917,7 +8289,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dango",
-                "last": "Ouattara"
+                "last": "Ouattara",
+                "search": [
+                    "Dango",
+                    "Ouattara",
+                    "Dango Ouattara"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p533463.png",
             "kit_number": "11",
@@ -7995,7 +8372,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Justin",
-                "last": "Kluivert"
+                "last": "Kluivert",
+                "search": [
+                    "Justin",
+                    "Kluivert",
+                    "Justin Kluivert"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222683.png",
             "kit_number": "19",
@@ -8059,7 +8441,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Antoine",
-                "last": "Semenyo"
+                "last": "Semenyo",
+                "search": [
+                    "Antoine",
+                    "Semenyo",
+                    "Antoine Semenyo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p437730.png",
             "kit_number": "24",
@@ -8137,7 +8524,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Will",
-                "last": "Dennis"
+                "last": "Dennis",
+                "search": [
+                    "Will",
+                    "Dennis",
+                    "Will Dennis"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444172.png",
             "kit_number": "40",
@@ -8246,7 +8638,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mark",
-                "last": "Travers"
+                "last": "Travers",
+                "search": [
+                    "Mark",
+                    "Travers",
+                    "Mark Travers"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p229600.png",
             "kit_number": "42",
@@ -8370,7 +8767,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyler",
-                "last": "Adams"
+                "last": "Adams",
+                "search": [
+                    "Tyler",
+                    "Adams",
+                    "Tyler Adams"
+                ]
             },
             "image": null,
             "kit_number": "18",
@@ -8449,7 +8851,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luis",
-                "last": "Sinisterra"
+                "last": "Sinisterra",
+                "search": [
+                    "Luis",
+                    "Sinisterra",
+                    "Luis Sinisterra"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p224995.png",
             "kit_number": "17",
@@ -8528,7 +8935,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Enes",
-                "last": "\u00dcnal"
+                "last": "\u00dcnal",
+                "search": [
+                    "Enes",
+                    "\u00dcnal",
+                    "Enes \u00dcnal",
+                    "Unal",
+                    "Enes Unal"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p168636.png",
             "kit_number": "26",
@@ -8607,7 +9021,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dean",
-                "last": "Huijsen"
+                "last": "Huijsen",
+                "search": [
+                    "Dean",
+                    "Huijsen",
+                    "Dean Huijsen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p554605.png",
             "kit_number": "2",
@@ -8659,7 +9078,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Juli\u00e1n",
-                "last": "Araujo"
+                "last": "Araujo",
+                "search": [
+                    "Juli\u00e1n",
+                    "Araujo",
+                    "Juli\u00e1n Araujo",
+                    "Julian",
+                    "Julian Araujo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p436893.png",
             "kit_number": "22",
@@ -8711,7 +9137,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Evanilson"
+                "last": "Evanilson",
+                "search": [
+                    null,
+                    "Evanilson",
+                    "Evanilson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444102.png",
             "kit_number": "9",
@@ -8761,7 +9192,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Kepa"
+                "last": "Kepa",
+                "search": [
+                    null,
+                    "Kepa",
+                    "Kepa"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109745.png",
             "kit_number": "13",
@@ -8928,7 +9364,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mark",
-                "last": "Flekken"
+                "last": "Flekken",
+                "search": [
+                    "Mark",
+                    "Flekken",
+                    "Mark Flekken"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p118342.png",
             "kit_number": "1",
@@ -9005,7 +9446,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nathan",
-                "last": "Collins"
+                "last": "Collins",
+                "search": [
+                    "Nathan",
+                    "Collins",
+                    "Nathan Collins"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432830.png",
             "kit_number": "22",
@@ -9105,7 +9551,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Aaron",
-                "last": "Hickey"
+                "last": "Hickey",
+                "search": [
+                    "Aaron",
+                    "Hickey",
+                    "Aaron Hickey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p472713.png",
             "kit_number": "2",
@@ -9187,7 +9638,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rico",
-                "last": "Henry"
+                "last": "Henry",
+                "search": [
+                    "Rico",
+                    "Henry",
+                    "Rico Henry"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p194010.png",
             "kit_number": "3",
@@ -9284,7 +9740,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ethan",
-                "last": "Pinnock"
+                "last": "Pinnock",
+                "search": [
+                    "Ethan",
+                    "Pinnock",
+                    "Ethan Pinnock"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231065.png",
             "kit_number": "5",
@@ -9381,7 +9842,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Mee"
+                "last": "Mee",
+                "search": [
+                    "Ben",
+                    "Mee",
+                    "Ben Mee"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p51927.png",
             "kit_number": "16",
@@ -9615,7 +10081,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kristoffer",
-                "last": "Ajer"
+                "last": "Ajer",
+                "search": [
+                    "Kristoffer",
+                    "Ajer",
+                    "Kristoffer Ajer"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p191866.png",
             "kit_number": "20",
@@ -9712,7 +10183,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mads",
-                "last": "Roerslev"
+                "last": "Roerslev",
+                "search": [
+                    "Mads",
+                    "Roerslev",
+                    "Mads Roerslev"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226956.png",
             "kit_number": "30",
@@ -9809,7 +10285,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yehor",
-                "last": "Yarmoliuk"
+                "last": "Yarmoliuk",
+                "search": [
+                    "Yehor",
+                    "Yarmoliuk",
+                    "Yehor Yarmoliuk"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p508395.png",
             "kit_number": "18",
@@ -9887,7 +10368,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Christian",
-                "last": "N\u00f8rgaard"
+                "last": "N\u00f8rgaard",
+                "search": [
+                    "Christian",
+                    "N\u00f8rgaard",
+                    "Christian N\u00f8rgaard",
+                    "Norgaard",
+                    "Christian Norgaard"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p128295.png",
             "kit_number": "6",
@@ -9979,7 +10467,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mathias",
-                "last": "Jensen"
+                "last": "Jensen",
+                "search": [
+                    "Mathias",
+                    "Jensen",
+                    "Mathias Jensen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p207283.png",
             "kit_number": "8",
@@ -10071,7 +10564,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kevin",
-                "last": "Schade"
+                "last": "Schade",
+                "search": [
+                    "Kevin",
+                    "Schade",
+                    "Kevin Schade"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513418.png",
             "kit_number": "7",
@@ -10149,7 +10647,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Josh",
-                "last": "Dasilva"
+                "last": "Dasilva",
+                "search": [
+                    "Josh",
+                    "Dasilva",
+                    "Josh Dasilva"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p183656.png",
             "kit_number": "10",
@@ -10284,7 +10787,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yoane",
-                "last": "Wissa"
+                "last": "Wissa",
+                "search": [
+                    "Yoane",
+                    "Wissa",
+                    "Yoane Wissa"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p216646.png",
             "kit_number": "11",
@@ -10376,7 +10884,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bryan",
-                "last": "Mbeumo"
+                "last": "Mbeumo",
+                "search": [
+                    "Bryan",
+                    "Mbeumo",
+                    "Bryan Mbeumo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p446008.png",
             "kit_number": "19",
@@ -10468,7 +10981,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mikkel",
-                "last": "Damsgaard"
+                "last": "Damsgaard",
+                "search": [
+                    "Mikkel",
+                    "Damsgaard",
+                    "Mikkel Damsgaard"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440089.png",
             "kit_number": "24",
@@ -10546,7 +11064,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Vitaly",
-                "last": "Janelt"
+                "last": "Janelt",
+                "search": [
+                    "Vitaly",
+                    "Janelt",
+                    "Vitaly Janelt"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204580.png",
             "kit_number": "27",
@@ -10638,7 +11161,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Keane",
-                "last": "Lewis-Potter"
+                "last": "Lewis-Potter",
+                "search": [
+                    "Keane",
+                    "Lewis-Potter",
+                    "Keane Lewis-Potter"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p249231.png",
             "kit_number": "23",
@@ -10716,7 +11244,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "H\u00e1kon",
-                "last": "Valdimarsson"
+                "last": "Valdimarsson",
+                "search": [
+                    "H\u00e1kon",
+                    "Valdimarsson",
+                    "H\u00e1kon Valdimarsson",
+                    "Hakon",
+                    "Hakon Valdimarsson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p507433.png",
             "kit_number": "12",
@@ -10789,7 +11324,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kim",
-                "last": "Ji-Soo"
+                "last": "Ji-Soo",
+                "search": [
+                    "Kim",
+                    "Ji-Soo",
+                    "Kim Ji-Soo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p570241.png",
             "kit_number": "36",
@@ -10856,7 +11396,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Trevitt"
+                "last": "Trevitt",
+                "search": [
+                    "Ryan",
+                    "Trevitt",
+                    "Ryan Trevitt"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p591357.png",
             "kit_number": "28",
@@ -10934,7 +11479,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yunus",
-                "last": "Konak"
+                "last": "Konak",
+                "search": [
+                    "Yunus",
+                    "Konak",
+                    "Yunus Konak"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p628204.png",
             "kit_number": "26",
@@ -10998,7 +11548,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Thiago"
+                "last": "Thiago",
+                "search": [
+                    null,
+                    "Thiago",
+                    "Thiago"
+                ]
             },
             "image": null,
             "kit_number": "9",
@@ -11048,7 +11603,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matthew",
-                "last": "Cox"
+                "last": "Cox",
+                "search": [
+                    "Matthew",
+                    "Cox",
+                    "Matthew Cox"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p503300.png",
             "kit_number": "33",
@@ -11155,7 +11715,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Paris",
-                "last": "Maghoma"
+                "last": "Maghoma",
+                "search": [
+                    "Paris",
+                    "Maghoma",
+                    "Paris Maghoma"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220695.png",
             "kit_number": "19",
@@ -11262,7 +11827,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tony",
-                "last": "Yogane"
+                "last": "Yogane",
+                "search": [
+                    "Tony",
+                    "Yogane",
+                    "Tony Yogane"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p592662.png",
             "kit_number": "42",
@@ -11312,7 +11882,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Iwan",
-                "last": "Morgan"
+                "last": "Morgan",
+                "search": [
+                    "Iwan",
+                    "Morgan",
+                    "Iwan Morgan"
+                ]
             },
             "image": null,
             "kit_number": "40",
@@ -11362,7 +11937,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "F\u00e1bio",
-                "last": "Carvalho"
+                "last": "Carvalho",
+                "search": [
+                    "F\u00e1bio",
+                    "Carvalho",
+                    "F\u00e1bio Carvalho",
+                    "Fabio",
+                    "Fabio Carvalho"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244858.png",
             "kit_number": "14",
@@ -11458,7 +12040,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sepp",
-                "last": "van den Berg"
+                "last": "van den Berg",
+                "search": [
+                    "Sepp",
+                    "van den Berg",
+                    "Sepp van den Berg"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444765.png",
             "kit_number": "4",
@@ -11587,7 +12174,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Gustavo",
-                "last": "Nunes"
+                "last": "Nunes",
+                "search": [
+                    "Gustavo",
+                    "Nunes",
+                    "Gustavo Nunes"
+                ]
             },
             "image": null,
             "kit_number": "39",
@@ -11637,7 +12229,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jayden",
-                "last": "Meghoma"
+                "last": "Meghoma",
+                "search": [
+                    "Jayden",
+                    "Meghoma",
+                    "Jayden Meghoma"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499717.png",
             "kit_number": "21",
@@ -11691,7 +12288,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bart",
-                "last": "Verbruggen"
+                "last": "Verbruggen",
+                "search": [
+                    "Bart",
+                    "Verbruggen",
+                    "Bart Verbruggen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p489639.png",
             "kit_number": "1",
@@ -11764,7 +12366,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jason",
-                "last": "Steele"
+                "last": "Steele",
+                "search": [
+                    "Jason",
+                    "Steele",
+                    "Jason Steele"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p49262.png",
             "kit_number": "23",
@@ -11957,7 +12564,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tariq",
-                "last": "Lamptey"
+                "last": "Lamptey",
+                "search": [
+                    "Tariq",
+                    "Lamptey",
+                    "Tariq Lamptey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232792.png",
             "kit_number": "2",
@@ -12086,7 +12698,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Igor",
-                "last": "Julio"
+                "last": "Julio",
+                "search": [
+                    "Igor",
+                    "Julio",
+                    "Igor Julio"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223434.png",
             "kit_number": "3",
@@ -12153,7 +12770,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Adam",
-                "last": "Webster"
+                "last": "Webster",
+                "search": [
+                    "Adam",
+                    "Webster",
+                    "Adam Webster"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p110735.png",
             "kit_number": "4",
@@ -12280,7 +12902,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lewis",
-                "last": "Dunk"
+                "last": "Dunk",
+                "search": [
+                    "Lewis",
+                    "Dunk",
+                    "Lewis Dunk"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p83299.png",
             "kit_number": "5",
@@ -12437,7 +13064,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jan",
-                "last": "Paul van Hecke"
+                "last": "Paul van Hecke",
+                "search": [
+                    "Jan",
+                    "Paul van Hecke",
+                    "Jan Paul van Hecke"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p469142.png",
             "kit_number": "29",
@@ -12549,7 +13181,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pervis",
-                "last": "Estupi\u00f1\u00e1n"
+                "last": "Estupi\u00f1\u00e1n",
+                "search": [
+                    "Pervis",
+                    "Estupi\u00f1\u00e1n",
+                    "Pervis Estupi\u00f1\u00e1n",
+                    "Estupinan",
+                    "Pervis Estupinan"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204214.png",
             "kit_number": "30",
@@ -12631,7 +13270,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jo\u00ebl",
-                "last": "Veltman"
+                "last": "Veltman",
+                "search": [
+                    "Jo\u00ebl",
+                    "Veltman",
+                    "Jo\u00ebl Veltman",
+                    "Joel",
+                    "Joel Veltman"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111478.png",
             "kit_number": "34",
@@ -12743,7 +13389,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Milner"
+                "last": "Milner",
+                "search": [
+                    "James",
+                    "Milner",
+                    "James Milner"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p15157.png",
             "kit_number": "6",
@@ -13130,7 +13781,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Solly",
-                "last": "March"
+                "last": "March",
+                "search": [
+                    "Solly",
+                    "March",
+                    "Solly March"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109345.png",
             "kit_number": "7",
@@ -13278,7 +13934,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jakub",
-                "last": "Moder"
+                "last": "Moder",
+                "search": [
+                    "Jakub",
+                    "Moder",
+                    "Jakub Moder"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p243505.png",
             "kit_number": "15",
@@ -13384,7 +14045,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kaoru",
-                "last": "Mitoma"
+                "last": "Mitoma",
+                "search": [
+                    "Kaoru",
+                    "Mitoma",
+                    "Kaoru Mitoma"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p451340.png",
             "kit_number": "22",
@@ -13480,7 +14146,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yasin",
-                "last": "Ayari"
+                "last": "Ayari",
+                "search": [
+                    "Yasin",
+                    "Ayari",
+                    "Yasin Ayari"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p509416.png",
             "kit_number": "44",
@@ -13558,7 +14229,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jo\u00e3o",
-                "last": "Pedro"
+                "last": "Pedro",
+                "search": [
+                    "Jo\u00e3o",
+                    "Pedro",
+                    "Jo\u00e3o Pedro",
+                    "Joao",
+                    "Joao Pedro"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p475168.png",
             "kit_number": "9",
@@ -13651,7 +14329,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Danny",
-                "last": "Welbeck"
+                "last": "Welbeck",
+                "search": [
+                    "Danny",
+                    "Welbeck",
+                    "Danny Welbeck"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p50175.png",
             "kit_number": "18",
@@ -13950,7 +14633,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Julio",
-                "last": "Enciso"
+                "last": "Enciso",
+                "search": [
+                    "Julio",
+                    "Enciso",
+                    "Julio Enciso"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p474120.png",
             "kit_number": "10",
@@ -14032,7 +14720,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Simon",
-                "last": "Adingra"
+                "last": "Adingra",
+                "search": [
+                    "Simon",
+                    "Adingra",
+                    "Simon Adingra"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p535818.png",
             "kit_number": "11",
@@ -14110,7 +14803,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Evan",
-                "last": "Ferguson"
+                "last": "Ferguson",
+                "search": [
+                    "Evan",
+                    "Ferguson",
+                    "Evan Ferguson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p487117.png",
             "kit_number": "28",
@@ -14202,7 +14900,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Carlos",
-                "last": "Baleba"
+                "last": "Baleba",
+                "search": [
+                    "Carlos",
+                    "Baleba",
+                    "Carlos Baleba"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p535301.png",
             "kit_number": "20",
@@ -14266,7 +14969,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jack",
-                "last": "Hinshelwood"
+                "last": "Hinshelwood",
+                "search": [
+                    "Jack",
+                    "Hinshelwood",
+                    "Jack Hinshelwood"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p532529.png",
             "kit_number": "41",
@@ -14344,7 +15052,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cameron",
-                "last": "Peupion"
+                "last": "Peupion",
+                "search": [
+                    "Cameron",
+                    "Peupion",
+                    "Cameron Peupion"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p491598.png",
             "kit_number": "32",
@@ -14422,7 +15135,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ed",
-                "last": "Turns"
+                "last": "Turns",
+                "search": [
+                    "Ed",
+                    "Turns",
+                    "Ed Turns"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p448496.png",
             "kit_number": "12",
@@ -14520,7 +15238,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yankuba",
-                "last": "Minteh"
+                "last": "Minteh",
+                "search": [
+                    "Yankuba",
+                    "Minteh",
+                    "Yankuba Minteh"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p592031.png",
             "kit_number": "17",
@@ -14586,7 +15309,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mats",
-                "last": "Wieffer"
+                "last": "Wieffer",
+                "search": [
+                    "Mats",
+                    "Wieffer",
+                    "Mats Wieffer"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p467779.png",
             "kit_number": "27",
@@ -14636,7 +15364,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Imari",
-                "last": "Samuels"
+                "last": "Samuels",
+                "search": [
+                    "Imari",
+                    "Samuels",
+                    "Imari Samuels"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p447720.png",
             "kit_number": "12",
@@ -14718,7 +15451,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luca",
-                "last": "Barrington"
+                "last": "Barrington",
+                "search": [
+                    "Luca",
+                    "Barrington",
+                    "Luca Barrington"
+                ]
             },
             "image": null,
             "kit_number": "14",
@@ -14784,7 +15522,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Brajan",
-                "last": "Gruda"
+                "last": "Gruda",
+                "search": [
+                    "Brajan",
+                    "Gruda",
+                    "Brajan Gruda"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513433.png",
             "kit_number": "8",
@@ -14834,7 +15577,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Georginio",
-                "last": "Rutter"
+                "last": "Rutter",
+                "search": [
+                    "Georginio",
+                    "Rutter",
+                    "Georginio Rutter"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463067.png",
             "kit_number": "14",
@@ -14899,7 +15647,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Killian",
-                "last": "Cahill"
+                "last": "Cahill",
+                "search": [
+                    "Killian",
+                    "Cahill",
+                    "Killian Cahill"
+                ]
             },
             "image": null,
             "kit_number": "38",
@@ -14955,7 +15708,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matt",
-                "last": "O'Riley"
+                "last": "O'Riley",
+                "search": [
+                    "Matt",
+                    "O'Riley",
+                    "Matt O'Riley"
+                ]
             },
             "image": null,
             "kit_number": "25",
@@ -15034,7 +15792,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ferdi",
-                "last": "Kadioglu"
+                "last": "Kadioglu",
+                "search": [
+                    "Ferdi",
+                    "Kadioglu",
+                    "Ferdi Kadioglu"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231416.png",
             "kit_number": "24",
@@ -15084,7 +15847,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marcus",
-                "last": "Bettinelli"
+                "last": "Bettinelli",
+                "search": [
+                    "Marcus",
+                    "Bettinelli",
+                    "Marcus Bettinelli"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p122074.png",
             "kit_number": "13",
@@ -15260,7 +16028,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Robert",
-                "last": "S\u00e1nchez"
+                "last": "S\u00e1nchez",
+                "search": [
+                    "Robert",
+                    "S\u00e1nchez",
+                    "Robert S\u00e1nchez",
+                    "Sanchez",
+                    "Robert Sanchez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215059.png",
             "kit_number": "1",
@@ -15424,7 +16199,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lucas",
-                "last": "Bergstr\u00f6m"
+                "last": "Bergstr\u00f6m",
+                "search": [
+                    "Lucas",
+                    "Bergstr\u00f6m",
+                    "Lucas Bergstr\u00f6m",
+                    "Bergstrom",
+                    "Lucas Bergstrom"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p482158.png",
             "kit_number": "47",
@@ -15531,7 +16313,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Axel",
-                "last": "Disasi"
+                "last": "Disasi",
+                "search": [
+                    "Axel",
+                    "Disasi",
+                    "Axel Disasi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220362.png",
             "kit_number": "2",
@@ -15598,7 +16385,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marc",
-                "last": "Cucurella"
+                "last": "Cucurella",
+                "search": [
+                    "Marc",
+                    "Cucurella",
+                    "Marc Cucurella"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p179268.png",
             "kit_number": "3",
@@ -15697,7 +16489,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Beno\u00eet",
-                "last": "Badiashile"
+                "last": "Badiashile",
+                "search": [
+                    "Beno\u00eet",
+                    "Badiashile",
+                    "Beno\u00eet Badiashile",
+                    "Benoit",
+                    "Benoit Badiashile"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p242880.png",
             "kit_number": "5",
@@ -15779,7 +16578,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Chilwell"
+                "last": "Chilwell",
+                "search": [
+                    "Ben",
+                    "Chilwell",
+                    "Ben Chilwell"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172850.png",
             "kit_number": "21",
@@ -15968,7 +16772,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Reece",
-                "last": "James"
+                "last": "James",
+                "search": [
+                    "Reece",
+                    "James",
+                    "Reece James"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p225796.png",
             "kit_number": "24",
@@ -16095,7 +16904,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Levi",
-                "last": "Colwill"
+                "last": "Colwill",
+                "search": [
+                    "Levi",
+                    "Colwill",
+                    "Levi Colwill"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p460028.png",
             "kit_number": "6",
@@ -16180,7 +16994,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Malo",
-                "last": "Gusto"
+                "last": "Gusto",
+                "search": [
+                    "Malo",
+                    "Gusto",
+                    "Malo Gusto"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p482609.png",
             "kit_number": "27",
@@ -16262,7 +17081,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wesley",
-                "last": "Fofana"
+                "last": "Fofana",
+                "search": [
+                    "Wesley",
+                    "Fofana",
+                    "Wesley Fofana"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444463.png",
             "kit_number": "29",
@@ -16376,7 +17200,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Enzo",
-                "last": "Fern\u00e1ndez"
+                "last": "Fern\u00e1ndez",
+                "search": [
+                    "Enzo",
+                    "Fern\u00e1ndez",
+                    "Enzo Fern\u00e1ndez",
+                    "Fernandez",
+                    "Enzo Fernandez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p448047.png",
             "kit_number": "8",
@@ -16454,7 +17285,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mykhailo",
-                "last": "Mudryk"
+                "last": "Mudryk",
+                "search": [
+                    "Mykhailo",
+                    "Mudryk",
+                    "Mykhailo Mudryk"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p465920.png",
             "kit_number": "10",
@@ -16532,7 +17368,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Carney",
-                "last": "Chukwuemeka"
+                "last": "Chukwuemeka",
+                "search": [
+                    "Carney",
+                    "Chukwuemeka",
+                    "Carney Chukwuemeka"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p478912.png",
             "kit_number": "17",
@@ -16640,7 +17481,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Noni",
-                "last": "Madueke"
+                "last": "Madueke",
+                "search": [
+                    "Noni",
+                    "Madueke",
+                    "Noni Madueke"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p248857.png",
             "kit_number": "11",
@@ -16718,7 +17564,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nicolas",
-                "last": "Jackson"
+                "last": "Jackson",
+                "search": [
+                    "Nicolas",
+                    "Jackson",
+                    "Nicolas Jackson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p517052.png",
             "kit_number": "15",
@@ -16782,7 +17633,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Christopher",
-                "last": "Nkunku"
+                "last": "Nkunku",
+                "search": [
+                    "Christopher",
+                    "Nkunku",
+                    "Christopher Nkunku"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p213198.png",
             "kit_number": "18",
@@ -16846,7 +17702,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Josh",
-                "last": "Acheampong"
+                "last": "Acheampong",
+                "search": [
+                    "Josh",
+                    "Acheampong",
+                    "Josh Acheampong"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p577016.png",
             "kit_number": "34",
@@ -16913,7 +17774,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cole",
-                "last": "Palmer"
+                "last": "Palmer",
+                "search": [
+                    "Cole",
+                    "Palmer",
+                    "Cole Palmer"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244851.png",
             "kit_number": "20",
@@ -17053,7 +17919,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mois\u00e9s",
-                "last": "Caicedo"
+                "last": "Caicedo",
+                "search": [
+                    "Mois\u00e9s",
+                    "Caicedo",
+                    "Mois\u00e9s Caicedo",
+                    "Moises",
+                    "Moises Caicedo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p486672.png",
             "kit_number": "25",
@@ -17162,7 +18035,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cesare",
-                "last": "Casadei"
+                "last": "Casadei",
+                "search": [
+                    "Cesare",
+                    "Casadei",
+                    "Cesare Casadei"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p505187.png",
             "kit_number": "31",
@@ -17240,7 +18118,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rom\u00e9o",
-                "last": "Lavia"
+                "last": "Lavia",
+                "search": [
+                    "Rom\u00e9o",
+                    "Lavia",
+                    "Rom\u00e9o Lavia",
+                    "Romeo",
+                    "Romeo Lavia"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p514356.png",
             "kit_number": "45",
@@ -17335,7 +18220,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Deivid",
-                "last": "Washington"
+                "last": "Washington",
+                "search": [
+                    "Deivid",
+                    "Washington",
+                    "Deivid Washington"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p617054.png",
             "kit_number": "36",
@@ -17399,7 +18289,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyrique",
-                "last": "George"
+                "last": "George",
+                "search": [
+                    "Tyrique",
+                    "George",
+                    "Tyrique George"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p550615.png",
             "kit_number": "32",
@@ -17464,7 +18359,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tosin",
-                "last": "Adarabioyo"
+                "last": "Adarabioyo",
+                "search": [
+                    "Tosin",
+                    "Adarabioyo",
+                    "Tosin Adarabioyo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109646.png",
             "kit_number": "4",
@@ -17639,7 +18539,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Omari",
-                "last": "Kellyman"
+                "last": "Kellyman",
+                "search": [
+                    "Omari",
+                    "Kellyman",
+                    "Omari Kellyman"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p549068.png",
             "kit_number": "37",
@@ -17705,7 +18610,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alex",
-                "last": "Matos"
+                "last": "Matos",
+                "search": [
+                    "Alex",
+                    "Matos",
+                    "Alex Matos"
+                ]
             },
             "image": null,
             "kit_number": "21",
@@ -17770,7 +18680,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marc",
-                "last": "Guiu"
+                "last": "Guiu",
+                "search": [
+                    "Marc",
+                    "Guiu",
+                    "Marc Guiu"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499309.png",
             "kit_number": "38",
@@ -17820,7 +18735,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kiernan",
-                "last": "Dewsbury-Hall"
+                "last": "Dewsbury-Hall",
+                "search": [
+                    "Kiernan",
+                    "Dewsbury-Hall",
+                    "Kiernan Dewsbury-Hall"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215413.png",
             "kit_number": "22",
@@ -17928,7 +18848,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Renato",
-                "last": "Veiga"
+                "last": "Veiga",
+                "search": [
+                    "Renato",
+                    "Veiga",
+                    "Renato Veiga"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p551230.png",
             "kit_number": "40",
@@ -17978,7 +18903,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Filip",
-                "last": "J\u00f8rgensen"
+                "last": "J\u00f8rgensen",
+                "search": [
+                    "Filip",
+                    "J\u00f8rgensen",
+                    "Filip J\u00f8rgensen",
+                    "Jorgensen",
+                    "Filip Jorgensen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p508479.png",
             "kit_number": "12",
@@ -18034,7 +18966,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pedro",
-                "last": "Neto"
+                "last": "Neto",
+                "search": [
+                    "Pedro",
+                    "Neto",
+                    "Pedro Neto"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p247632.png",
             "kit_number": "7",
@@ -18156,7 +19093,15 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jo\u00e3o",
-                "last": "F\u00e9lix"
+                "last": "F\u00e9lix",
+                "search": [
+                    "Jo\u00e3o",
+                    "F\u00e9lix",
+                    "Jo\u00e3o F\u00e9lix",
+                    "Joao",
+                    "Felix",
+                    "Joao Felix"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p428399.png",
             "kit_number": "14",
@@ -18234,7 +19179,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jadon",
-                "last": "Sancho"
+                "last": "Sancho",
+                "search": [
+                    "Jadon",
+                    "Sancho",
+                    "Jadon Sancho"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209243.png",
             "kit_number": "19",
@@ -18343,7 +19293,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Remi",
-                "last": "Matthews"
+                "last": "Matthews",
+                "search": [
+                    "Remi",
+                    "Matthews",
+                    "Remi Matthews"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p169593.png",
             "kit_number": "31",
@@ -18450,7 +19405,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joel",
-                "last": "Ward"
+                "last": "Ward",
+                "search": [
+                    "Joel",
+                    "Ward",
+                    "Joel Ward"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p55494.png",
             "kit_number": "2",
@@ -18683,7 +19643,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyrick",
-                "last": "Mitchell"
+                "last": "Mitchell",
+                "search": [
+                    "Tyrick",
+                    "Mitchell",
+                    "Tyrick Mitchell"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244723.png",
             "kit_number": "3",
@@ -18810,7 +19775,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marc",
-                "last": "Gu\u00e9hi"
+                "last": "Gu\u00e9hi",
+                "search": [
+                    "Marc",
+                    "Gu\u00e9hi",
+                    "Marc Gu\u00e9hi",
+                    "Guehi",
+                    "Marc Guehi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209036.png",
             "kit_number": "6",
@@ -18938,7 +19910,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nathaniel",
-                "last": "Clyne"
+                "last": "Clyne",
+                "search": [
+                    "Nathaniel",
+                    "Clyne",
+                    "Nathaniel Clyne"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p57328.png",
             "kit_number": "17",
@@ -19175,7 +20152,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Chris",
-                "last": "Richards"
+                "last": "Richards",
+                "search": [
+                    "Chris",
+                    "Richards",
+                    "Chris Richards"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p427623.png",
             "kit_number": "26",
@@ -19257,7 +20239,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jefferson",
-                "last": "Lerma"
+                "last": "Lerma",
+                "search": [
+                    "Jefferson",
+                    "Lerma",
+                    "Jefferson Lerma"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p152551.png",
             "kit_number": "8",
@@ -19365,7 +20352,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Eberechi",
-                "last": "Eze"
+                "last": "Eze",
+                "search": [
+                    "Eberechi",
+                    "Eze",
+                    "Eberechi Eze"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232413.png",
             "kit_number": "10",
@@ -19471,7 +20463,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jeffrey",
-                "last": "Schlupp"
+                "last": "Schlupp",
+                "search": [
+                    "Jeffrey",
+                    "Schlupp",
+                    "Jeffrey Schlupp"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p86417.png",
             "kit_number": "15",
@@ -19667,7 +20664,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Will",
-                "last": "Hughes"
+                "last": "Hughes",
+                "search": [
+                    "Will",
+                    "Hughes",
+                    "Will Hughes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p108413.png",
             "kit_number": "19",
@@ -19803,7 +20805,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cheick",
-                "last": "Doucour\u00e9"
+                "last": "Doucour\u00e9",
+                "search": [
+                    "Cheick",
+                    "Doucour\u00e9",
+                    "Cheick Doucour\u00e9",
+                    "Doucoure",
+                    "Cheick Doucoure"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p438464.png",
             "kit_number": "28",
@@ -19881,7 +20890,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matheus",
-                "last": "Fran\u00e7a"
+                "last": "Fran\u00e7a",
+                "search": [
+                    "Matheus",
+                    "Fran\u00e7a",
+                    "Matheus Fran\u00e7a",
+                    "Franca",
+                    "Matheus Franca"
+                ]
             },
             "image": null,
             "kit_number": "11",
@@ -19945,7 +20961,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jean-Philippe",
-                "last": "Mateta"
+                "last": "Mateta",
+                "search": [
+                    "Jean-Philippe",
+                    "Mateta",
+                    "Jean-Philippe Mateta"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231747.png",
             "kit_number": "14",
@@ -20051,7 +21072,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dean",
-                "last": "Henderson"
+                "last": "Henderson",
+                "search": [
+                    "Dean",
+                    "Henderson",
+                    "Dean Henderson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172649.png",
             "kit_number": "1",
@@ -20249,7 +21275,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rob",
-                "last": "Holding"
+                "last": "Holding",
+                "search": [
+                    "Rob",
+                    "Holding",
+                    "Rob Holding"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p156074.png",
             "kit_number": "4",
@@ -20424,7 +21455,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Daniel",
-                "last": "Mu\u00f1oz"
+                "last": "Mu\u00f1oz",
+                "search": [
+                    "Daniel",
+                    "Mu\u00f1oz",
+                    "Daniel Mu\u00f1oz",
+                    "Munoz",
+                    "Daniel Munoz"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p247348.png",
             "kit_number": "12",
@@ -20491,7 +21529,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Adam",
-                "last": "Wharton"
+                "last": "Wharton",
+                "search": [
+                    "Adam",
+                    "Wharton",
+                    "Adam Wharton"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p496221.png",
             "kit_number": "20",
@@ -20555,7 +21598,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kaden",
-                "last": "Rodney"
+                "last": "Rodney",
+                "search": [
+                    "Kaden",
+                    "Rodney",
+                    "Kaden Rodney"
+                ]
             },
             "image": null,
             "kit_number": "42",
@@ -20633,7 +21681,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Justin",
-                "last": "Devenny"
+                "last": "Devenny",
+                "search": [
+                    "Justin",
+                    "Devenny",
+                    "Justin Devenny"
+                ]
             },
             "image": null,
             "kit_number": "55",
@@ -20697,7 +21750,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Franco",
-                "last": "Umeh-Chibueze"
+                "last": "Umeh-Chibueze",
+                "search": [
+                    "Franco",
+                    "Umeh-Chibueze",
+                    "Franco Umeh-Chibueze"
+                ]
             },
             "image": null,
             "kit_number": "46",
@@ -20761,7 +21819,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Daichi",
-                "last": "Kamada"
+                "last": "Kamada",
+                "search": [
+                    "Daichi",
+                    "Kamada",
+                    "Daichi Kamada"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209400.png",
             "kit_number": "18",
@@ -20811,7 +21874,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Chadi",
-                "last": "Riad"
+                "last": "Riad",
+                "search": [
+                    "Chadi",
+                    "Riad",
+                    "Chadi Riad"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p515621.png",
             "kit_number": "34",
@@ -20863,7 +21931,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Asher",
-                "last": "Agbinone"
+                "last": "Agbinone",
+                "search": [
+                    "Asher",
+                    "Agbinone",
+                    "Asher Agbinone"
+                ]
             },
             "image": null,
             "kit_number": "64",
@@ -20913,7 +21986,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Isma\u00efla",
-                "last": "Sarr"
+                "last": "Sarr",
+                "search": [
+                    "Isma\u00efla",
+                    "Sarr",
+                    "Isma\u00efla Sarr",
+                    "Ismaila",
+                    "Ismaila Sarr"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232185.png",
             "kit_number": "7",
@@ -20992,7 +22072,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Maxence",
-                "last": "Lacroix"
+                "last": "Lacroix",
+                "search": [
+                    "Maxence",
+                    "Lacroix",
+                    "Maxence Lacroix"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p437499.png",
             "kit_number": "5",
@@ -21044,7 +22129,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Eddie",
-                "last": "Nketiah"
+                "last": "Nketiah",
+                "search": [
+                    "Eddie",
+                    "Nketiah",
+                    "Eddie Nketiah"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205533.png",
             "kit_number": "9",
@@ -21194,7 +22284,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matt",
-                "last": "Turner"
+                "last": "Turner",
+                "search": [
+                    "Matt",
+                    "Turner",
+                    "Matt Turner"
+                ]
             },
             "image": null,
             "kit_number": "30",
@@ -21288,7 +22383,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Trevoh",
-                "last": "Chalobah"
+                "last": "Chalobah",
+                "search": [
+                    "Trevoh",
+                    "Chalobah",
+                    "Trevoh Chalobah"
+                ]
             },
             "image": null,
             "kit_number": "27",
@@ -21432,7 +22532,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Stefan",
-                "last": "Ortega"
+                "last": "Ortega",
+                "search": [
+                    "Stefan",
+                    "Ortega",
+                    "Stefan Ortega"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p88248.png",
             "kit_number": "18",
@@ -21527,7 +22632,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Ederson"
+                "last": "Ederson",
+                "search": [
+                    null,
+                    "Ederson",
+                    "Ederson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p121160.png",
             "kit_number": "31",
@@ -21716,7 +22826,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Scott",
-                "last": "Carson"
+                "last": "Carson",
+                "search": [
+                    "Scott",
+                    "Carson",
+                    "Scott Carson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p17601.png",
             "kit_number": "33",
@@ -22000,7 +23115,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kyle",
-                "last": "Walker"
+                "last": "Walker",
+                "search": [
+                    "Kyle",
+                    "Walker",
+                    "Kyle Walker"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p58621.png",
             "kit_number": "2",
@@ -22290,7 +23410,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "R\u00faben",
-                "last": "Dias"
+                "last": "Dias",
+                "search": [
+                    "R\u00faben",
+                    "Dias",
+                    "R\u00faben Dias",
+                    "Ruben",
+                    "Ruben Dias"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171314.png",
             "kit_number": "3",
@@ -22412,7 +23539,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "John",
-                "last": "Stones"
+                "last": "Stones",
+                "search": [
+                    "John",
+                    "Stones",
+                    "John Stones"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p97299.png",
             "kit_number": "5",
@@ -22655,7 +23787,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nathan",
-                "last": "Ak\u00e9"
+                "last": "Ak\u00e9",
+                "search": [
+                    "Nathan",
+                    "Ak\u00e9",
+                    "Nathan Ak\u00e9",
+                    "Ake",
+                    "Nathan Ake"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p126184.png",
             "kit_number": "6",
@@ -22899,7 +24038,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Josko",
-                "last": "Gvardiol"
+                "last": "Gvardiol",
+                "search": [
+                    "Josko",
+                    "Gvardiol",
+                    "Josko Gvardiol"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477424.png",
             "kit_number": "24",
@@ -22970,7 +24114,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Manuel",
-                "last": "Akanji"
+                "last": "Akanji",
+                "search": [
+                    "Manuel",
+                    "Akanji",
+                    "Manuel Akanji"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p211975.png",
             "kit_number": "25",
@@ -23057,7 +24206,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rico",
-                "last": "Lewis"
+                "last": "Lewis",
+                "search": [
+                    "Rico",
+                    "Lewis",
+                    "Rico Lewis"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477064.png",
             "kit_number": "82",
@@ -23144,7 +24298,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mateo",
-                "last": "Kovacic"
+                "last": "Kovacic",
+                "search": [
+                    "Mateo",
+                    "Kovacic",
+                    "Mateo Kovacic"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p91651.png",
             "kit_number": "8",
@@ -23287,7 +24446,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jack",
-                "last": "Grealish"
+                "last": "Grealish",
+                "search": [
+                    "Jack",
+                    "Grealish",
+                    "Jack Grealish"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p114283.png",
             "kit_number": "10",
@@ -23484,7 +24648,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Rodri"
+                "last": "Rodri",
+                "search": [
+                    null,
+                    "Rodri",
+                    "Rodri"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220566.png",
             "kit_number": "16",
@@ -23614,7 +24783,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kevin",
-                "last": "De Bruyne"
+                "last": "De Bruyne",
+                "search": [
+                    "Kevin",
+                    "De Bruyne",
+                    "Kevin De Bruyne"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p61366.png",
             "kit_number": "17",
@@ -23841,7 +25015,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bernardo",
-                "last": "Silva"
+                "last": "Silva",
+                "search": [
+                    "Bernardo",
+                    "Silva",
+                    "Bernardo Silva"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p165809.png",
             "kit_number": "20",
@@ -23998,7 +25177,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Phil",
-                "last": "Foden"
+                "last": "Foden",
+                "search": [
+                    "Phil",
+                    "Foden",
+                    "Phil Foden"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209244.png",
             "kit_number": "47",
@@ -24176,7 +25360,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "McAtee"
+                "last": "McAtee",
+                "search": [
+                    "James",
+                    "McAtee",
+                    "James McAtee"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432714.png",
             "kit_number": "87",
@@ -24270,7 +25459,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Erling",
-                "last": "Haaland"
+                "last": "Haaland",
+                "search": [
+                    "Erling",
+                    "Haaland",
+                    "Erling Haaland"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223094.png",
             "kit_number": "9",
@@ -24368,7 +25562,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Josh",
-                "last": "Wilson-Esbrand"
+                "last": "Wilson-Esbrand",
+                "search": [
+                    "Josh",
+                    "Wilson-Esbrand",
+                    "Josh Wilson-Esbrand"
+                ]
             },
             "image": null,
             "kit_number": "97",
@@ -24465,7 +25664,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matheus",
-                "last": "Nunes"
+                "last": "Nunes",
+                "search": [
+                    "Matheus",
+                    "Nunes",
+                    "Matheus Nunes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p465351.png",
             "kit_number": "27",
@@ -24553,7 +25757,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Oscar",
-                "last": "Bobb"
+                "last": "Bobb",
+                "search": [
+                    "Oscar",
+                    "Bobb",
+                    "Oscar Bobb"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477555.png",
             "kit_number": "52",
@@ -24652,7 +25861,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "J\u00e9r\u00e9my",
-                "last": "Doku"
+                "last": "Doku",
+                "search": [
+                    "J\u00e9r\u00e9my",
+                    "Doku",
+                    "J\u00e9r\u00e9my Doku",
+                    "Jeremy",
+                    "Jeremy Doku"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p248875.png",
             "kit_number": "11",
@@ -24720,7 +25936,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Savinho"
+                "last": "Savinho",
+                "search": [
+                    null,
+                    "Savinho",
+                    "Savinho"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p510281.png",
             "kit_number": "26",
@@ -24770,7 +25991,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ilkay",
-                "last": "G\u00fcndogan"
+                "last": "G\u00fcndogan",
+                "search": [
+                    "Ilkay",
+                    "G\u00fcndogan",
+                    "Ilkay G\u00fcndogan",
+                    "Gundogan",
+                    "Ilkay Gundogan"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59859.png",
             "kit_number": "19",
@@ -24947,7 +26175,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kaden",
-                "last": "Braithwaite"
+                "last": "Braithwaite",
+                "search": [
+                    "Kaden",
+                    "Braithwaite",
+                    "Kaden Braithwaite"
+                ]
             },
             "image": null,
             "kit_number": "14",
@@ -24999,7 +26232,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jacob",
-                "last": "Wright"
+                "last": "Wright",
+                "search": [
+                    "Jacob",
+                    "Wright",
+                    "Jacob Wright"
+                ]
             },
             "image": null,
             "kit_number": "56",
@@ -25063,7 +26301,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Neco",
-                "last": "Williams"
+                "last": "Williams",
+                "search": [
+                    "Neco",
+                    "Williams",
+                    "Neco Williams"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215136.png",
             "kit_number": "7",
@@ -25198,7 +26441,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harry",
-                "last": "Toffolo"
+                "last": "Toffolo",
+                "search": [
+                    "Harry",
+                    "Toffolo",
+                    "Harry Toffolo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p114241.png",
             "kit_number": "15",
@@ -25296,7 +26544,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Willy-Arnaud",
-                "last": "Boly"
+                "last": "Boly",
+                "search": [
+                    "Willy-Arnaud",
+                    "Boly",
+                    "Willy-Arnaud Boly"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p90585.png",
             "kit_number": "30",
@@ -25440,7 +26693,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ola",
-                "last": "Aina"
+                "last": "Aina",
+                "search": [
+                    "Ola",
+                    "Aina",
+                    "Ola Aina"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p159506.png",
             "kit_number": "34",
@@ -25618,7 +26876,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Morgan",
-                "last": "Gibbs-White"
+                "last": "Gibbs-White",
+                "search": [
+                    "Morgan",
+                    "Gibbs-White",
+                    "Morgan Gibbs-White"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222531.png",
             "kit_number": "10",
@@ -25754,7 +27017,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Yates"
+                "last": "Yates",
+                "search": [
+                    "Ryan",
+                    "Yates",
+                    "Ryan Yates"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204968.png",
             "kit_number": "22",
@@ -25832,7 +27100,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Remo",
-                "last": "Freuler"
+                "last": "Freuler",
+                "search": [
+                    "Remo",
+                    "Freuler",
+                    "Remo Freuler"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p89076.png",
             "kit_number": "8",
@@ -25910,7 +27183,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Danilo"
+                "last": "Danilo",
+                "search": [
+                    null,
+                    "Danilo",
+                    "Danilo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513046.png",
             "kit_number": "28",
@@ -25988,7 +27266,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Taiwo",
-                "last": "Awoniyi"
+                "last": "Awoniyi",
+                "search": [
+                    "Taiwo",
+                    "Awoniyi",
+                    "Taiwo Awoniyi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p210156.png",
             "kit_number": "9",
@@ -26123,7 +27406,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Chris",
-                "last": "Wood"
+                "last": "Wood",
+                "search": [
+                    "Chris",
+                    "Wood",
+                    "Chris Wood"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p60689.png",
             "kit_number": "11",
@@ -26350,7 +27638,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Anthony",
-                "last": "Elanga"
+                "last": "Elanga",
+                "search": [
+                    "Anthony",
+                    "Elanga",
+                    "Anthony Elanga"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p449434.png",
             "kit_number": "21",
@@ -26458,7 +27751,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Emmanuel",
-                "last": "Dennis"
+                "last": "Dennis",
+                "search": [
+                    "Emmanuel",
+                    "Dennis",
+                    "Emmanuel Dennis"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p230251.png",
             "kit_number": "25",
@@ -26551,7 +27849,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matz",
-                "last": "Sels"
+                "last": "Sels",
+                "search": [
+                    "Matz",
+                    "Sels",
+                    "Matz Sels"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p85633.png",
             "kit_number": "26",
@@ -26663,7 +27966,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Andrew",
-                "last": "Omobamidele"
+                "last": "Omobamidele",
+                "search": [
+                    "Andrew",
+                    "Omobamidele",
+                    "Andrew Omobamidele"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p466404.png",
             "kit_number": "12",
@@ -26746,7 +28054,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Murillo"
+                "last": "Murillo",
+                "search": [
+                    null,
+                    "Murillo",
+                    "Murillo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p575476.png",
             "kit_number": "5",
@@ -26813,7 +28126,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Zach",
-                "last": "Abbott"
+                "last": "Abbott",
+                "search": [
+                    "Zach",
+                    "Abbott",
+                    "Zach Abbott"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p549067.png",
             "kit_number": "44",
@@ -26895,7 +28213,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ibrahim",
-                "last": "Sangar\u00e9"
+                "last": "Sangar\u00e9",
+                "search": [
+                    "Ibrahim",
+                    "Sangar\u00e9",
+                    "Ibrahim Sangar\u00e9",
+                    "Sangare",
+                    "Ibrahim Sangare"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p210462.png",
             "kit_number": "6",
@@ -26959,7 +28284,15 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nicol\u00e1s",
-                "last": "Dom\u00ednguez"
+                "last": "Dom\u00ednguez",
+                "search": [
+                    "Nicol\u00e1s",
+                    "Dom\u00ednguez",
+                    "Nicol\u00e1s Dom\u00ednguez",
+                    "Nicolas",
+                    "Dominguez",
+                    "Nicolas Dominguez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p250199.png",
             "kit_number": "16",
@@ -27023,7 +28356,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Callum",
-                "last": "Hudson-Odoi"
+                "last": "Hudson-Odoi",
+                "search": [
+                    "Callum",
+                    "Hudson-Odoi",
+                    "Callum Hudson-Odoi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209046.png",
             "kit_number": "14",
@@ -27174,7 +28512,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Elliot",
-                "last": "Anderson"
+                "last": "Anderson",
+                "search": [
+                    "Elliot",
+                    "Anderson",
+                    "Elliot Anderson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215379.png",
             "kit_number": "8",
@@ -27284,7 +28627,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Eric",
-                "last": "da Silva Moreira"
+                "last": "da Silva Moreira",
+                "search": [
+                    "Eric",
+                    "da Silva Moreira",
+                    "Eric da Silva Moreira"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p569014.png",
             "kit_number": "17",
@@ -27334,7 +28682,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nikola",
-                "last": "Milenkovic"
+                "last": "Milenkovic",
+                "search": [
+                    "Nikola",
+                    "Milenkovic",
+                    "Nikola Milenkovic"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p227444.png",
             "kit_number": "31",
@@ -27386,7 +28739,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Carlos",
-                "last": "Miguel"
+                "last": "Miguel",
+                "search": [
+                    "Carlos",
+                    "Miguel",
+                    "Carlos Miguel"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p475123.png",
             "kit_number": "33",
@@ -27442,7 +28800,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jota",
-                "last": "Silva"
+                "last": "Silva",
+                "search": [
+                    "Jota",
+                    "Silva",
+                    "Jota Silva"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p510500.png",
             "kit_number": "20",
@@ -27492,7 +28855,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ram\u00f3n",
-                "last": "Sosa"
+                "last": "Sosa",
+                "search": [
+                    "Ram\u00f3n",
+                    "Sosa",
+                    "Ram\u00f3n Sosa",
+                    "Ramon",
+                    "Ramon Sosa"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p502222.png",
             "kit_number": "24",
@@ -27542,7 +28912,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "\u00c1lex",
-                "last": "Moreno"
+                "last": "Moreno",
+                "search": [
+                    "\u00c1lex",
+                    "Moreno",
+                    "\u00c1lex Moreno",
+                    "Alex",
+                    "Alex Moreno"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p106468.png",
             "kit_number": "19",
@@ -27626,7 +29003,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Perry"
+                "last": "Perry",
+                "search": [
+                    "Ben",
+                    "Perry",
+                    "Ben Perry"
+                ]
             },
             "image": null,
             "kit_number": "59",
@@ -27676,7 +29058,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Morato"
+                "last": "Morato",
+                "search": [
+                    null,
+                    "Morato",
+                    "Morato"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p485047.png",
             "kit_number": "4",
@@ -27728,7 +29115,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Ward-Prowse"
+                "last": "Ward-Prowse",
+                "search": [
+                    "James",
+                    "Ward-Prowse",
+                    "James Ward-Prowse"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101178.png",
             "kit_number": "18",
@@ -27949,7 +29341,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alex",
-                "last": "McCarthy"
+                "last": "McCarthy",
+                "search": [
+                    "Alex",
+                    "McCarthy",
+                    "Alex McCarthy"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p58376.png",
             "kit_number": "1",
@@ -28180,7 +29577,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joe",
-                "last": "Lumley"
+                "last": "Lumley",
+                "search": [
+                    "Joe",
+                    "Lumley",
+                    "Joe Lumley"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167888.png",
             "kit_number": "13",
@@ -28236,7 +29638,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Gavin",
-                "last": "Bazunu"
+                "last": "Bazunu",
+                "search": [
+                    "Gavin",
+                    "Bazunu",
+                    "Gavin Bazunu"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p456350.png",
             "kit_number": "31",
@@ -28331,7 +29738,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kyle",
-                "last": "Walker-Peters"
+                "last": "Walker-Peters",
+                "search": [
+                    "Kyle",
+                    "Walker-Peters",
+                    "Kyle Walker-Peters"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p158534.png",
             "kit_number": "2",
@@ -28505,7 +29917,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Manning"
+                "last": "Manning",
+                "search": [
+                    "Ryan",
+                    "Manning",
+                    "Ryan Manning"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204863.png",
             "kit_number": "3",
@@ -28557,7 +29974,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Bree"
+                "last": "Bree",
+                "search": [
+                    "James",
+                    "Bree",
+                    "James Bree"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184386.png",
             "kit_number": "14",
@@ -28640,7 +30062,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Juan",
-                "last": "Larios"
+                "last": "Larios",
+                "search": [
+                    "Juan",
+                    "Larios",
+                    "Juan Larios"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p515571.png",
             "kit_number": "28",
@@ -28707,7 +30134,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jan",
-                "last": "Bednarek"
+                "last": "Bednarek",
+                "search": [
+                    "Jan",
+                    "Bednarek",
+                    "Jan Bednarek"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171771.png",
             "kit_number": "35",
@@ -28851,7 +30283,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joe",
-                "last": "Aribo"
+                "last": "Aribo",
+                "search": [
+                    "Joe",
+                    "Aribo",
+                    "Joe Aribo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p193204.png",
             "kit_number": "7",
@@ -28915,7 +30352,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Will",
-                "last": "Smallbone"
+                "last": "Smallbone",
+                "search": [
+                    "Will",
+                    "Smallbone",
+                    "Will Smallbone"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p214466.png",
             "kit_number": "8",
@@ -29021,7 +30463,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kamaldeen",
-                "last": "Sulemana"
+                "last": "Sulemana",
+                "search": [
+                    "Kamaldeen",
+                    "Sulemana",
+                    "Kamaldeen Sulemana"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p504783.png",
             "kit_number": "20",
@@ -29085,7 +30532,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyler",
-                "last": "Dibling"
+                "last": "Dibling",
+                "search": [
+                    "Tyler",
+                    "Dibling",
+                    "Tyler Dibling"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p496661.png",
             "kit_number": "33",
@@ -29165,7 +30617,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Adam",
-                "last": "Armstrong"
+                "last": "Armstrong",
+                "search": [
+                    "Adam",
+                    "Armstrong",
+                    "Adam Armstrong"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p155511.png",
             "kit_number": "9",
@@ -29300,7 +30757,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ross",
-                "last": "Stewart"
+                "last": "Stewart",
+                "search": [
+                    "Ross",
+                    "Stewart",
+                    "Ross Stewart"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p230348.png",
             "kit_number": "11",
@@ -29350,7 +30812,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sam",
-                "last": "Amo-Ameyaw"
+                "last": "Amo-Ameyaw",
+                "search": [
+                    "Sam",
+                    "Amo-Ameyaw",
+                    "Sam Amo-Ameyaw"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499724.png",
             "kit_number": "27",
@@ -29414,7 +30881,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Adam",
-                "last": "Lallana"
+                "last": "Lallana",
+                "search": [
+                    "Adam",
+                    "Lallana",
+                    "Adam Lallana"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p39155.png",
             "kit_number": "10",
@@ -29640,7 +31112,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Armel",
-                "last": "Bella-Kotchap"
+                "last": "Bella-Kotchap",
+                "search": [
+                    "Armel",
+                    "Bella-Kotchap",
+                    "Armel Bella-Kotchap"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477386.png",
             "kit_number": "6",
@@ -29707,7 +31184,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Paul",
-                "last": "Onuachu"
+                "last": "Onuachu",
+                "search": [
+                    "Paul",
+                    "Onuachu",
+                    "Paul Onuachu"
+                ]
             },
             "image": null,
             "kit_number": "32",
@@ -29771,7 +31253,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Taylor",
-                "last": "Harwood-Bellis"
+                "last": "Harwood-Bellis",
+                "search": [
+                    "Taylor",
+                    "Harwood-Bellis",
+                    "Taylor Harwood-Bellis"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p245719.png",
             "kit_number": "6",
@@ -29902,7 +31389,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Charlie",
-                "last": "Taylor"
+                "last": "Taylor",
+                "search": [
+                    "Charlie",
+                    "Taylor",
+                    "Charlie Taylor"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p103914.png",
             "kit_number": "21",
@@ -30045,7 +31537,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ronnie",
-                "last": "Edwards"
+                "last": "Edwards",
+                "search": [
+                    "Ronnie",
+                    "Edwards",
+                    "Ronnie Edwards"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p500926.png",
             "kit_number": "12",
@@ -30097,7 +31594,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nathan",
-                "last": "Wood"
+                "last": "Wood",
+                "search": [
+                    "Nathan",
+                    "Wood",
+                    "Nathan Wood"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244845.png",
             "kit_number": "15",
@@ -30149,7 +31651,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yukinari",
-                "last": "Sugawara"
+                "last": "Sugawara",
+                "search": [
+                    "Yukinari",
+                    "Sugawara",
+                    "Yukinari Sugawara"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219279.png",
             "kit_number": "16",
@@ -30201,7 +31708,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Flynn",
-                "last": "Downes"
+                "last": "Downes",
+                "search": [
+                    "Flynn",
+                    "Downes",
+                    "Flynn Downes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220585.png",
             "kit_number": "4",
@@ -30281,7 +31793,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Brereton"
+                "last": "Brereton",
+                "search": [
+                    "Ben",
+                    "Brereton",
+                    "Ben Brereton"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204814.png",
             "kit_number": "17",
@@ -30346,7 +31863,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cameron",
-                "last": "Archer"
+                "last": "Archer",
+                "search": [
+                    "Cameron",
+                    "Archer",
+                    "Cameron Archer"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p433979.png",
             "kit_number": "19",
@@ -30470,7 +31992,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lesley",
-                "last": "Ugochukwu"
+                "last": "Ugochukwu",
+                "search": [
+                    "Lesley",
+                    "Ugochukwu",
+                    "Lesley Ugochukwu"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p503714.png",
             "kit_number": "26",
@@ -30536,7 +32063,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mateus",
-                "last": "Fernandes"
+                "last": "Fernandes",
+                "search": [
+                    "Mateus",
+                    "Fernandes",
+                    "Mateus Fernandes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p551226.png",
             "kit_number": "18",
@@ -30586,7 +32118,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jay",
-                "last": "Robinson"
+                "last": "Robinson",
+                "search": [
+                    "Jay",
+                    "Robinson",
+                    "Jay Robinson"
+                ]
             },
             "image": null,
             "kit_number": "46",
@@ -30636,7 +32173,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Romeo",
-                "last": "Akachukwu"
+                "last": "Akachukwu",
+                "search": [
+                    "Romeo",
+                    "Akachukwu",
+                    "Romeo Akachukwu"
+                ]
             },
             "image": null,
             "kit_number": "54",
@@ -30686,7 +32228,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jayden",
-                "last": "Moore"
+                "last": "Moore",
+                "search": [
+                    "Jayden",
+                    "Moore",
+                    "Jayden Moore"
+                ]
             },
             "image": null,
             "kit_number": "57",
@@ -30738,7 +32285,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joseph",
-                "last": "O'Brien-Whitmarsh"
+                "last": "O'Brien-Whitmarsh",
+                "search": [
+                    "Joseph",
+                    "O'Brien-Whitmarsh",
+                    "Joseph O'Brien-Whitmarsh"
+                ]
             },
             "image": null,
             "kit_number": "60",
@@ -30788,7 +32340,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Aaron",
-                "last": "Ramsdale"
+                "last": "Ramsdale",
+                "search": [
+                    "Aaron",
+                    "Ramsdale",
+                    "Aaron Ramsdale"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p225321.png",
             "kit_number": "30",
@@ -30990,7 +32547,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Fraser"
+                "last": "Fraser",
+                "search": [
+                    "Ryan",
+                    "Fraser",
+                    "Ryan Fraser"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p90105.png",
             "kit_number": "24",
@@ -31155,7 +32717,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Maxwel",
-                "last": "Cornet"
+                "last": "Cornet",
+                "search": [
+                    "Maxwel",
+                    "Cornet",
+                    "Maxwel Cornet"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p149519.png",
             "kit_number": "22",
@@ -31250,7 +32817,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Guglielmo",
-                "last": "Vicario"
+                "last": "Vicario",
+                "search": [
+                    "Guglielmo",
+                    "Vicario",
+                    "Guglielmo Vicario"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184254.png",
             "kit_number": "1",
@@ -31323,7 +32895,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Fraser",
-                "last": "Forster"
+                "last": "Forster",
+                "search": [
+                    "Fraser",
+                    "Forster",
+                    "Fraser Forster"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p40383.png",
             "kit_number": "20",
@@ -31641,7 +33218,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Brandon",
-                "last": "Austin"
+                "last": "Austin",
+                "search": [
+                    "Brandon",
+                    "Austin",
+                    "Brandon Austin"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p214572.png",
             "kit_number": "40",
@@ -31816,7 +33398,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alfie",
-                "last": "Whiteman"
+                "last": "Whiteman",
+                "search": [
+                    "Alfie",
+                    "Whiteman",
+                    "Alfie Whiteman"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p175941.png",
             "kit_number": "41",
@@ -32009,7 +33596,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sergio",
-                "last": "Reguil\u00f3n"
+                "last": "Reguil\u00f3n",
+                "search": [
+                    "Sergio",
+                    "Reguil\u00f3n",
+                    "Sergio Reguil\u00f3n",
+                    "Reguilon",
+                    "Sergio Reguilon"
+                ]
             },
             "image": null,
             "kit_number": "3",
@@ -32125,7 +33719,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cristian",
-                "last": "Romero"
+                "last": "Romero",
+                "search": [
+                    "Cristian",
+                    "Romero",
+                    "Cristian Romero"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p221632.png",
             "kit_number": "17",
@@ -32222,7 +33821,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pedro",
-                "last": "Porro"
+                "last": "Porro",
+                "search": [
+                    "Pedro",
+                    "Porro",
+                    "Pedro Porro"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441164.png",
             "kit_number": "23",
@@ -32350,7 +33954,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Djed",
-                "last": "Spence"
+                "last": "Spence",
+                "search": [
+                    "Djed",
+                    "Spence",
+                    "Djed Spence"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232859.png",
             "kit_number": "24",
@@ -32432,7 +34041,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Davies"
+                "last": "Davies",
+                "search": [
+                    "Ben",
+                    "Davies",
+                    "Ben Davies"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p115556.png",
             "kit_number": "33",
@@ -32680,7 +34294,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Micky",
-                "last": "van de Ven"
+                "last": "van de Ven",
+                "search": [
+                    "Micky",
+                    "van de Ven",
+                    "Micky van de Ven"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p491279.png",
             "kit_number": "37",
@@ -32747,7 +34366,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Destiny",
-                "last": "Udogie"
+                "last": "Udogie",
+                "search": [
+                    "Destiny",
+                    "Udogie",
+                    "Destiny Udogie"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p487053.png",
             "kit_number": "13",
@@ -32829,7 +34453,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yves",
-                "last": "Bissouma"
+                "last": "Bissouma",
+                "search": [
+                    "Yves",
+                    "Bissouma",
+                    "Yves Bissouma"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p227127.png",
             "kit_number": "8",
@@ -32965,7 +34594,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dejan",
-                "last": "Kulusevski"
+                "last": "Kulusevski",
+                "search": [
+                    "Dejan",
+                    "Kulusevski",
+                    "Dejan Kulusevski"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p445044.png",
             "kit_number": "21",
@@ -33057,7 +34691,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pape",
-                "last": "Sarr"
+                "last": "Sarr",
+                "search": [
+                    "Pape",
+                    "Sarr",
+                    "Pape Sarr"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p482442.png",
             "kit_number": "29",
@@ -33149,7 +34788,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rodrigo",
-                "last": "Bentancur"
+                "last": "Bentancur",
+                "search": [
+                    "Rodrigo",
+                    "Bentancur",
+                    "Rodrigo Bentancur"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p202993.png",
             "kit_number": "30",
@@ -33241,7 +34885,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Maddison"
+                "last": "Maddison",
+                "search": [
+                    "James",
+                    "Maddison",
+                    "James Maddison"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172780.png",
             "kit_number": "10",
@@ -33398,7 +35047,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Son",
-                "last": "Heung-Min"
+                "last": "Heung-Min",
+                "search": [
+                    "Son",
+                    "Heung-Min",
+                    "Son Heung-Min"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p85971.png",
             "kit_number": "7",
@@ -33591,7 +35245,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Richarlison"
+                "last": "Richarlison",
+                "search": [
+                    null,
+                    "Richarlison",
+                    "Richarlison"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p212319.png",
             "kit_number": "9",
@@ -33743,7 +35402,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Radu",
-                "last": "Dragusin"
+                "last": "Dragusin",
+                "search": [
+                    "Radu",
+                    "Dragusin",
+                    "Radu Dragusin"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p493125.png",
             "kit_number": "6",
@@ -33810,7 +35474,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Timo",
-                "last": "Werner"
+                "last": "Werner",
+                "search": [
+                    "Timo",
+                    "Werner",
+                    "Timo Werner"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p165153.png",
             "kit_number": "16",
@@ -33917,7 +35586,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Brennan",
-                "last": "Johnson"
+                "last": "Johnson",
+                "search": [
+                    "Brennan",
+                    "Johnson",
+                    "Brennan Johnson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p242898.png",
             "kit_number": "22",
@@ -33998,7 +35672,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lucas",
-                "last": "Bergvall"
+                "last": "Bergvall",
+                "search": [
+                    "Lucas",
+                    "Bergvall",
+                    "Lucas Bergvall"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p570526.png",
             "kit_number": "15",
@@ -34048,7 +35727,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Archie",
-                "last": "Gray"
+                "last": "Gray",
+                "search": [
+                    "Archie",
+                    "Gray",
+                    "Archie Gray"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p547701.png",
             "kit_number": "14",
@@ -34128,7 +35812,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Will",
-                "last": "Lankshear"
+                "last": "Lankshear",
+                "search": [
+                    "Will",
+                    "Lankshear",
+                    "Will Lankshear"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p552427.png",
             "kit_number": "42",
@@ -34207,7 +35896,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dominic",
-                "last": "Solanke"
+                "last": "Solanke",
+                "search": [
+                    "Dominic",
+                    "Solanke",
+                    "Dominic Solanke"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154566.png",
             "kit_number": "19",
@@ -34379,7 +36073,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wilson",
-                "last": "Odobert"
+                "last": "Odobert",
+                "search": [
+                    "Wilson",
+                    "Odobert",
+                    "Wilson Odobert"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p550839.png",
             "kit_number": "28",
@@ -34444,7 +36143,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mikey",
-                "last": "Moore"
+                "last": "Moore",
+                "search": [
+                    "Mikey",
+                    "Moore",
+                    "Mikey Moore"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499721.png",
             "kit_number": "47",
@@ -34508,7 +36212,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lukasz",
-                "last": "Fabianski"
+                "last": "Fabianski",
+                "search": [
+                    "Lukasz",
+                    "Fabianski",
+                    "Lukasz Fabianski"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p37096.png",
             "kit_number": "1",
@@ -34855,7 +36564,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alphonse",
-                "last": "Areola"
+                "last": "Areola",
+                "search": [
+                    "Alphonse",
+                    "Areola",
+                    "Alphonse Areola"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p84182.png",
             "kit_number": "23",
@@ -34984,7 +36698,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Aaron",
-                "last": "Cresswell"
+                "last": "Cresswell",
+                "search": [
+                    "Aaron",
+                    "Cresswell",
+                    "Aaron Cresswell"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p55459.png",
             "kit_number": "3",
@@ -35186,7 +36905,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Vladim\u00edr",
-                "last": "Coufal"
+                "last": "Coufal",
+                "search": [
+                    "Vladim\u00edr",
+                    "Coufal",
+                    "Vladim\u00edr Coufal",
+                    "Vladimir",
+                    "Vladimir Coufal"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p164555.png",
             "kit_number": "5",
@@ -35298,7 +37024,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Emerson"
+                "last": "Emerson",
+                "search": [
+                    null,
+                    "Emerson",
+                    "Emerson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109533.png",
             "kit_number": "33",
@@ -35457,7 +37188,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lucas",
-                "last": "Paquet\u00e1"
+                "last": "Paquet\u00e1",
+                "search": [
+                    "Lucas",
+                    "Paquet\u00e1",
+                    "Lucas Paquet\u00e1",
+                    "Paqueta",
+                    "Lucas Paqueta"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p224024.png",
             "kit_number": "10",
@@ -35535,7 +37273,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Edson",
-                "last": "\u00c1lvarez"
+                "last": "\u00c1lvarez",
+                "search": [
+                    "Edson",
+                    "\u00c1lvarez",
+                    "Edson \u00c1lvarez",
+                    "Alvarez",
+                    "Edson Alvarez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p213999.png",
             "kit_number": "19",
@@ -35599,7 +37344,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tom\u00e1s",
-                "last": "Soucek"
+                "last": "Soucek",
+                "search": [
+                    "Tom\u00e1s",
+                    "Soucek",
+                    "Tom\u00e1s Soucek",
+                    "Tomas",
+                    "Tomas Soucek"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215439.png",
             "kit_number": "28",
@@ -35719,7 +37471,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Michail",
-                "last": "Antonio"
+                "last": "Antonio",
+                "search": [
+                    "Michail",
+                    "Antonio",
+                    "Michail Antonio"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p57531.png",
             "kit_number": "9",
@@ -35900,7 +37657,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Danny",
-                "last": "Ings"
+                "last": "Ings",
+                "search": [
+                    "Danny",
+                    "Ings",
+                    "Danny Ings"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p84939.png",
             "kit_number": "18",
@@ -36100,7 +37862,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jarrod",
-                "last": "Bowen"
+                "last": "Bowen",
+                "search": [
+                    "Jarrod",
+                    "Bowen",
+                    "Jarrod Bowen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p178186.png",
             "kit_number": "20",
@@ -36235,7 +38002,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Konstantinos",
-                "last": "Mavropanos"
+                "last": "Mavropanos",
+                "search": [
+                    "Konstantinos",
+                    "Mavropanos",
+                    "Konstantinos Mavropanos"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p233963.png",
             "kit_number": "15",
@@ -36393,7 +38165,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kaelan",
-                "last": "Casey"
+                "last": "Casey",
+                "search": [
+                    "Kaelan",
+                    "Casey",
+                    "Kaelan Casey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p518438.png",
             "kit_number": "42",
@@ -36476,7 +38253,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mohammed",
-                "last": "Kudus"
+                "last": "Kudus",
+                "search": [
+                    "Mohammed",
+                    "Kudus",
+                    "Mohammed Kudus"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p460842.png",
             "kit_number": "14",
@@ -36540,7 +38322,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luis",
-                "last": "Guilherme"
+                "last": "Guilherme",
+                "search": [
+                    "Luis",
+                    "Guilherme",
+                    "Luis Guilherme"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p577114.png",
             "kit_number": "17",
@@ -36590,7 +38377,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wes",
-                "last": "Foderingham"
+                "last": "Foderingham",
+                "search": [
+                    "Wes",
+                    "Foderingham",
+                    "Wes Foderingham"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p82143.png",
             "kit_number": "21",
@@ -36720,7 +38512,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Maximilian",
-                "last": "Kilman"
+                "last": "Kilman",
+                "search": [
+                    "Maximilian",
+                    "Kilman",
+                    "Maximilian Kilman"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p214048.png",
             "kit_number": "26",
@@ -36864,7 +38661,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Crysencio",
-                "last": "Summerville"
+                "last": "Summerville",
+                "search": [
+                    "Crysencio",
+                    "Summerville",
+                    "Crysencio Summerville"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p450070.png",
             "kit_number": "7",
@@ -36957,7 +38759,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Niclas",
-                "last": "F\u00fcllkrug"
+                "last": "F\u00fcllkrug",
+                "search": [
+                    "Niclas",
+                    "F\u00fcllkrug",
+                    "Niclas F\u00fcllkrug",
+                    "Fullkrug",
+                    "Niclas Fullkrug"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p91889.png",
             "kit_number": "11",
@@ -37007,7 +38816,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Guido",
-                "last": "Rodr\u00edguez"
+                "last": "Rodr\u00edguez",
+                "search": [
+                    "Guido",
+                    "Rodr\u00edguez",
+                    "Guido Rodr\u00edguez",
+                    "Rodriguez",
+                    "Guido Rodriguez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p197024.png",
             "kit_number": "24",
@@ -37057,7 +38873,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jean-Clair",
-                "last": "Todibo"
+                "last": "Todibo",
+                "search": [
+                    "Jean-Clair",
+                    "Todibo",
+                    "Jean-Clair Todibo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462116.png",
             "kit_number": "25",
@@ -37109,7 +38930,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Aaron",
-                "last": "Wan-Bissaka"
+                "last": "Wan-Bissaka",
+                "search": [
+                    "Aaron",
+                    "Wan-Bissaka",
+                    "Aaron Wan-Bissaka"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p214590.png",
             "kit_number": "29",
@@ -37285,7 +39111,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Carlos",
-                "last": "Soler"
+                "last": "Soler",
+                "search": [
+                    "Carlos",
+                    "Soler",
+                    "Carlos Soler"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p224860.png",
             "kit_number": "4",
@@ -37335,7 +39166,15 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jos\u00e9",
-                "last": "S\u00e1"
+                "last": "S\u00e1",
+                "search": [
+                    "Jos\u00e9",
+                    "S\u00e1",
+                    "Jos\u00e9 S\u00e1",
+                    "Jose",
+                    "Sa",
+                    "Jose Sa"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p149065.png",
             "kit_number": "1",
@@ -37442,7 +39281,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dan",
-                "last": "Bentley"
+                "last": "Bentley",
+                "search": [
+                    "Dan",
+                    "Bentley",
+                    "Dan Bentley"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p79602.png",
             "kit_number": "25",
@@ -37532,7 +39376,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tom",
-                "last": "King"
+                "last": "King",
+                "search": [
+                    "Tom",
+                    "King",
+                    "Tom King"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p138001.png",
             "kit_number": "40",
@@ -37605,7 +39454,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matt",
-                "last": "Doherty"
+                "last": "Doherty",
+                "search": [
+                    "Matt",
+                    "Doherty",
+                    "Matt Doherty"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p87835.png",
             "kit_number": "2",
@@ -37779,7 +39633,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rayan",
-                "last": "A\u00eft-Nouri"
+                "last": "A\u00eft-Nouri",
+                "search": [
+                    "Rayan",
+                    "A\u00eft-Nouri",
+                    "Rayan A\u00eft-Nouri",
+                    "Ait-Nouri",
+                    "Rayan Ait-Nouri"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p448514.png",
             "kit_number": "3",
@@ -37891,7 +39752,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Craig",
-                "last": "Dawson"
+                "last": "Dawson",
+                "search": [
+                    "Craig",
+                    "Dawson",
+                    "Craig Dawson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p60232.png",
             "kit_number": "15",
@@ -38142,7 +40008,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "N\u00e9lson",
-                "last": "Semedo"
+                "last": "Semedo",
+                "search": [
+                    "N\u00e9lson",
+                    "Semedo",
+                    "N\u00e9lson Semedo",
+                    "Nelson",
+                    "Nelson Semedo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200402.png",
             "kit_number": "22",
@@ -38254,7 +40127,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Toti",
-                "last": "Gomes"
+                "last": "Gomes",
+                "search": [
+                    "Toti",
+                    "Gomes",
+                    "Toti Gomes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p510362.png",
             "kit_number": "24",
@@ -38351,7 +40229,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Boubacar",
-                "last": "Traor\u00e9"
+                "last": "Traor\u00e9",
+                "search": [
+                    "Boubacar",
+                    "Traor\u00e9",
+                    "Boubacar Traor\u00e9",
+                    "Traore",
+                    "Boubacar Traore"
+                ]
             },
             "image": null,
             "kit_number": "6",
@@ -38429,7 +40314,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mario",
-                "last": "Lemina"
+                "last": "Lemina",
+                "search": [
+                    "Mario",
+                    "Lemina",
+                    "Mario Lemina"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p151086.png",
             "kit_number": "5",
@@ -38579,7 +40469,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pablo",
-                "last": "Sarabia"
+                "last": "Sarabia",
+                "search": [
+                    "Pablo",
+                    "Sarabia",
+                    "Pablo Sarabia"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p88484.png",
             "kit_number": "21",
@@ -38657,7 +40552,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jo\u00e3o",
-                "last": "Gomes"
+                "last": "Gomes",
+                "search": [
+                    "Jo\u00e3o",
+                    "Gomes",
+                    "Jo\u00e3o Gomes",
+                    "Joao",
+                    "Joao Gomes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p448089.png",
             "kit_number": "8",
@@ -38735,7 +40637,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Hwang",
-                "last": "Hee-Chan"
+                "last": "Hee-Chan",
+                "search": [
+                    "Hwang",
+                    "Hee-Chan",
+                    "Hwang Hee-Chan"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184754.png",
             "kit_number": "11",
@@ -38827,7 +40734,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matheus",
-                "last": "Cunha"
+                "last": "Cunha",
+                "search": [
+                    "Matheus",
+                    "Cunha",
+                    "Matheus Cunha"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p430871.png",
             "kit_number": "10",
@@ -38905,7 +40817,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Gon\u00e7alo",
-                "last": "Guedes"
+                "last": "Guedes",
+                "search": [
+                    "Gon\u00e7alo",
+                    "Guedes",
+                    "Gon\u00e7alo Guedes",
+                    "Goncalo",
+                    "Goncalo Guedes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p181284.png",
             "kit_number": "9",
@@ -38983,7 +40902,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sasa",
-                "last": "Kalajdzic"
+                "last": "Kalajdzic",
+                "search": [
+                    "Sasa",
+                    "Kalajdzic",
+                    "Sasa Kalajdzic"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p429414.png",
             "kit_number": "18",
@@ -39061,7 +40985,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Santiago",
-                "last": "Bueno"
+                "last": "Bueno",
+                "search": [
+                    "Santiago",
+                    "Bueno",
+                    "Santiago Bueno"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231480.png",
             "kit_number": "4",
@@ -39128,7 +41057,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tommy",
-                "last": "Doyle"
+                "last": "Doyle",
+                "search": [
+                    "Tommy",
+                    "Doyle",
+                    "Tommy Doyle"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220394.png",
             "kit_number": "20",
@@ -39252,7 +41186,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jean-Ricner",
-                "last": "Bellegarde"
+                "last": "Bellegarde",
+                "search": [
+                    "Jean-Ricner",
+                    "Bellegarde",
+                    "Jean-Ricner Bellegarde"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231057.png",
             "kit_number": "27",
@@ -39316,7 +41255,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Enso",
-                "last": "Gonz\u00e1lez"
+                "last": "Gonz\u00e1lez",
+                "search": [
+                    "Enso",
+                    "Gonz\u00e1lez",
+                    "Enso Gonz\u00e1lez",
+                    "Gonzalez",
+                    "Enso Gonzalez"
+                ]
             },
             "image": null,
             "kit_number": "30",
@@ -39380,7 +41326,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rodrigo",
-                "last": "Gomes"
+                "last": "Gomes",
+                "search": [
+                    "Rodrigo",
+                    "Gomes",
+                    "Rodrigo Gomes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p483081.png",
             "kit_number": "19",
@@ -39430,7 +41381,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Yerson",
-                "last": "Mosquera"
+                "last": "Mosquera",
+                "search": [
+                    "Yerson",
+                    "Mosquera",
+                    "Yerson Mosquera"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p501837.png",
             "kit_number": "2",
@@ -39527,7 +41483,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luke",
-                "last": "Cundle"
+                "last": "Cundle",
+                "search": [
+                    "Luke",
+                    "Cundle",
+                    "Luke Cundle"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p245923.png",
             "kit_number": "25",
@@ -39647,7 +41608,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "J\u00f8rgen",
-                "last": "Strand Larsen"
+                "last": "Strand Larsen",
+                "search": [
+                    "J\u00f8rgen",
+                    "Strand Larsen",
+                    "J\u00f8rgen Strand Larsen",
+                    "Jorgen",
+                    "Jorgen Strand Larsen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p247412.png",
             "kit_number": "9",
@@ -39697,7 +41665,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Pedro",
-                "last": "Lima"
+                "last": "Lima",
+                "search": [
+                    "Pedro",
+                    "Lima",
+                    "Pedro Lima"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p641221.png",
             "kit_number": "37",
@@ -39749,7 +41722,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luke",
-                "last": "Rawlings"
+                "last": "Rawlings",
+                "search": [
+                    "Luke",
+                    "Rawlings",
+                    "Luke Rawlings"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -39801,7 +41779,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bastien",
-                "last": "Meupiyou"
+                "last": "Meupiyou",
+                "search": [
+                    "Bastien",
+                    "Meupiyou",
+                    "Bastien Meupiyou"
+                ]
             },
             "image": null,
             "kit_number": "33",
@@ -39853,7 +41836,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sam",
-                "last": "Johnstone"
+                "last": "Johnstone",
+                "search": [
+                    "Sam",
+                    "Johnstone",
+                    "Sam Johnstone"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101982.png",
             "kit_number": "31",
@@ -40102,7 +42090,13 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Andr\u00e9"
+                "last": "Andr\u00e9",
+                "search": [
+                    null,
+                    "Andr\u00e9",
+                    "Andr\u00e9",
+                    "Andre"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p509291.png",
             "kit_number": "7",
@@ -40152,7 +42146,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Carlos",
-                "last": "Forbs"
+                "last": "Forbs",
+                "search": [
+                    "Carlos",
+                    "Forbs",
+                    "Carlos Forbs"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463212.png",
             "kit_number": "26",
@@ -40217,7 +42216,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alfie",
-                "last": "Pond"
+                "last": "Pond",
+                "search": [
+                    "Alfie",
+                    "Pond",
+                    "Alfie Pond"
+                ]
             },
             "image": null,
             "kit_number": "46",
@@ -40284,7 +42288,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jordan",
-                "last": "Pickford"
+                "last": "Pickford",
+                "search": [
+                    "Jordan",
+                    "Pickford",
+                    "Jordan Pickford"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111234.png",
             "kit_number": "1",
@@ -40570,7 +42579,15 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jo\u00e3o",
-                "last": "Virg\u00ednia"
+                "last": "Virg\u00ednia",
+                "search": [
+                    "Jo\u00e3o",
+                    "Virg\u00ednia",
+                    "Jo\u00e3o Virg\u00ednia",
+                    "Joao",
+                    "Virginia",
+                    "Joao Virginia"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222627.png",
             "kit_number": "12",
@@ -40728,7 +42745,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nathan",
-                "last": "Patterson"
+                "last": "Patterson",
+                "search": [
+                    "Nathan",
+                    "Patterson",
+                    "Nathan Patterson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p243571.png",
             "kit_number": "2",
@@ -40825,7 +42847,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Michael",
-                "last": "Keane"
+                "last": "Keane",
+                "search": [
+                    "Michael",
+                    "Keane",
+                    "Michael Keane"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p106611.png",
             "kit_number": "5",
@@ -41062,7 +43089,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Tarkowski"
+                "last": "Tarkowski",
+                "search": [
+                    "James",
+                    "Tarkowski",
+                    "James Tarkowski"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p17761.png",
             "kit_number": "6",
@@ -41235,7 +43267,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ashley",
-                "last": "Young"
+                "last": "Young",
+                "search": [
+                    "Ashley",
+                    "Young",
+                    "Ashley Young"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p18892.png",
             "kit_number": "18",
@@ -41556,7 +43593,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Vitalii",
-                "last": "Mykolenko"
+                "last": "Mykolenko",
+                "search": [
+                    "Vitalii",
+                    "Mykolenko",
+                    "Vitalii Mykolenko"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p224967.png",
             "kit_number": "19",
@@ -41653,7 +43695,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "S\u00e9amus",
-                "last": "Coleman"
+                "last": "Coleman",
+                "search": [
+                    "S\u00e9amus",
+                    "Coleman",
+                    "S\u00e9amus Coleman",
+                    "Seamus",
+                    "Seamus Coleman"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59949.png",
             "kit_number": "23",
@@ -41945,7 +43994,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jarrad",
-                "last": "Branthwaite"
+                "last": "Branthwaite",
+                "search": [
+                    "Jarrad",
+                    "Branthwaite",
+                    "Jarrad Branthwaite"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p480455.png",
             "kit_number": "32",
@@ -42072,7 +44126,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Abdoulaye",
-                "last": "Doucour\u00e9"
+                "last": "Doucour\u00e9",
+                "search": [
+                    "Abdoulaye",
+                    "Doucour\u00e9",
+                    "Abdoulaye Doucour\u00e9",
+                    "Doucoure",
+                    "Abdoulaye Doucoure"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p121599.png",
             "kit_number": "16",
@@ -42249,7 +44310,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Idrissa",
-                "last": "Gueye"
+                "last": "Gueye",
+                "search": [
+                    "Idrissa",
+                    "Gueye",
+                    "Idrissa Gueye"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80801.png",
             "kit_number": "27",
@@ -42398,7 +44464,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Garner"
+                "last": "Garner",
+                "search": [
+                    "James",
+                    "Garner",
+                    "James Garner"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232928.png",
             "kit_number": "37",
@@ -42537,7 +44608,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Youssef",
-                "last": "Chermiti"
+                "last": "Chermiti",
+                "search": [
+                    "Youssef",
+                    "Chermiti",
+                    "Youssef Chermiti"
+                ]
             },
             "image": null,
             "kit_number": "17",
@@ -42601,7 +44677,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dwight",
-                "last": "McNeil"
+                "last": "McNeil",
+                "search": [
+                    "Dwight",
+                    "McNeil",
+                    "Dwight McNeil"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p433154.png",
             "kit_number": "7",
@@ -42750,7 +44831,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dominic",
-                "last": "Calvert-Lewin"
+                "last": "Calvert-Lewin",
+                "search": [
+                    "Dominic",
+                    "Calvert-Lewin",
+                    "Dominic Calvert-Lewin"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p177815.png",
             "kit_number": "9",
@@ -42916,7 +45002,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jack",
-                "last": "Harrison"
+                "last": "Harrison",
+                "search": [
+                    "Jack",
+                    "Harrison",
+                    "Jack Harrison"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p221399.png",
             "kit_number": "11",
@@ -43038,7 +45129,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tim",
-                "last": "Iroegbunam"
+                "last": "Iroegbunam",
+                "search": [
+                    "Tim",
+                    "Iroegbunam",
+                    "Tim Iroegbunam"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p490094.png",
             "kit_number": "42",
@@ -43147,7 +45243,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Iliman",
-                "last": "Ndiaye"
+                "last": "Ndiaye",
+                "search": [
+                    "Iliman",
+                    "Ndiaye",
+                    "Iliman Ndiaye"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440993.png",
             "kit_number": "10",
@@ -43226,7 +45327,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jake",
-                "last": "O'Brien"
+                "last": "O'Brien",
+                "search": [
+                    "Jake",
+                    "O'Brien",
+                    "Jake O'Brien"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p512462.png",
             "kit_number": "15",
@@ -43309,7 +45415,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Roman",
-                "last": "Dixon"
+                "last": "Dixon",
+                "search": [
+                    "Roman",
+                    "Dixon",
+                    "Roman Dixon"
+                ]
             },
             "image": null,
             "kit_number": "75",
@@ -43361,7 +45472,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Asmir",
-                "last": "Begovic"
+                "last": "Begovic",
+                "search": [
+                    "Asmir",
+                    "Begovic",
+                    "Asmir Begovic"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p40349.png",
             "kit_number": "31",
@@ -43766,7 +45882,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Orel",
-                "last": "Mangala"
+                "last": "Mangala",
+                "search": [
+                    "Orel",
+                    "Mangala",
+                    "Orel Mangala"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p179519.png",
             "kit_number": "8",
@@ -43846,7 +45967,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Armando",
-                "last": "Broja"
+                "last": "Broja",
+                "search": [
+                    "Armando",
+                    "Broja",
+                    "Armando Broja"
+                ]
             },
             "image": null,
             "kit_number": "22",
@@ -43974,7 +46100,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jesper",
-                "last": "Lindstr\u00f8m"
+                "last": "Lindstr\u00f8m",
+                "search": [
+                    "Jesper",
+                    "Lindstr\u00f8m",
+                    "Jesper Lindstr\u00f8m",
+                    "Lindstrom",
+                    "Jesper Lindstrom"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463903.png",
             "kit_number": "29",
@@ -44024,7 +46157,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Beto"
+                "last": "Beto",
+                "search": [
+                    null,
+                    "Beto",
+                    "Beto"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p486385.png",
             "kit_number": "14",
@@ -44088,7 +46226,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Owen",
-                "last": "Barker"
+                "last": "Barker",
+                "search": [
+                    "Owen",
+                    "Barker",
+                    "Owen Barker"
+                ]
             },
             "image": null,
             "kit_number": "79",
@@ -44138,7 +46281,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bradley",
-                "last": "Moonan"
+                "last": "Moonan",
+                "search": [
+                    "Bradley",
+                    "Moonan",
+                    "Bradley Moonan"
+                ]
             },
             "image": null,
             "kit_number": "72",
@@ -44190,7 +46338,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luke",
-                "last": "Butterfield"
+                "last": "Butterfield",
+                "search": [
+                    "Luke",
+                    "Butterfield",
+                    "Luke Butterfield"
+                ]
             },
             "image": null,
             "kit_number": "69",
@@ -44242,7 +46395,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Martin",
-                "last": "Sherif"
+                "last": "Sherif",
+                "search": [
+                    "Martin",
+                    "Sherif",
+                    "Martin Sherif"
+                ]
             },
             "image": null,
             "kit_number": "67",
@@ -44292,7 +46450,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bernd",
-                "last": "Leno"
+                "last": "Leno",
+                "search": [
+                    "Bernd",
+                    "Leno",
+                    "Bernd Leno"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80201.png",
             "kit_number": "1",
@@ -44452,7 +46615,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kenny",
-                "last": "Tete"
+                "last": "Tete",
+                "search": [
+                    "Kenny",
+                    "Tete",
+                    "Kenny Tete"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167074.png",
             "kit_number": "2",
@@ -44549,7 +46717,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Calvin",
-                "last": "Bassey"
+                "last": "Bassey",
+                "search": [
+                    "Calvin",
+                    "Bassey",
+                    "Calvin Bassey"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232892.png",
             "kit_number": "3",
@@ -44632,7 +46805,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Issa",
-                "last": "Diop"
+                "last": "Diop",
+                "search": [
+                    "Issa",
+                    "Diop",
+                    "Issa Diop"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219924.png",
             "kit_number": "31",
@@ -44776,7 +46954,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Antonee",
-                "last": "Robinson"
+                "last": "Robinson",
+                "search": [
+                    "Antonee",
+                    "Robinson",
+                    "Antonee Robinson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p169528.png",
             "kit_number": "33",
@@ -44889,7 +47072,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harrison",
-                "last": "Reed"
+                "last": "Reed",
+                "search": [
+                    "Harrison",
+                    "Reed",
+                    "Harrison Reed"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153366.png",
             "kit_number": "6",
@@ -45080,7 +47268,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harry",
-                "last": "Wilson"
+                "last": "Wilson",
+                "search": [
+                    "Harry",
+                    "Wilson",
+                    "Harry Wilson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153682.png",
             "kit_number": "8",
@@ -45259,7 +47452,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tom",
-                "last": "Cairney"
+                "last": "Cairney",
+                "search": [
+                    "Tom",
+                    "Cairney",
+                    "Tom Cairney"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p76357.png",
             "kit_number": "10",
@@ -45394,7 +47592,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Andreas",
-                "last": "Pereira"
+                "last": "Pereira",
+                "search": [
+                    "Andreas",
+                    "Pereira",
+                    "Andreas Pereira"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p156689.png",
             "kit_number": "18",
@@ -45586,7 +47789,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sasa",
-                "last": "Lukic"
+                "last": "Lukic",
+                "search": [
+                    "Sasa",
+                    "Lukic",
+                    "Sasa Lukic"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p212314.png",
             "kit_number": "20",
@@ -45664,7 +47872,15 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ra\u00fal",
-                "last": "Jim\u00e9nez"
+                "last": "Jim\u00e9nez",
+                "search": [
+                    "Ra\u00fal",
+                    "Jim\u00e9nez",
+                    "Ra\u00fal Jim\u00e9nez",
+                    "Raul",
+                    "Jimenez",
+                    "Raul Jimenez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p102057.png",
             "kit_number": "7",
@@ -45800,7 +48016,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rodrigo",
-                "last": "Muniz"
+                "last": "Muniz",
+                "search": [
+                    "Rodrigo",
+                    "Muniz",
+                    "Rodrigo Muniz"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244042.png",
             "kit_number": "9",
@@ -45882,7 +48103,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Carlos",
-                "last": "Vin\u00edcius"
+                "last": "Vin\u00edcius",
+                "search": [
+                    "Carlos",
+                    "Vin\u00edcius",
+                    "Carlos Vin\u00edcius",
+                    "Vinicius",
+                    "Carlos Vinicius"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p245824.png",
             "kit_number": "12",
@@ -45975,7 +48203,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Steven",
-                "last": "Benda"
+                "last": "Benda",
+                "search": [
+                    "Steven",
+                    "Benda",
+                    "Steven Benda"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p428971.png",
             "kit_number": "23",
@@ -46048,7 +48281,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Timothy",
-                "last": "Castagne"
+                "last": "Castagne",
+                "search": [
+                    "Timothy",
+                    "Castagne",
+                    "Timothy Castagne"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p166477.png",
             "kit_number": "21",
@@ -46161,7 +48399,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Josh",
-                "last": "King"
+                "last": "King",
+                "search": [
+                    "Josh",
+                    "King",
+                    "Josh King"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p577725.png",
             "kit_number": "24",
@@ -46225,7 +48468,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Adama",
-                "last": "Traor\u00e9"
+                "last": "Traor\u00e9",
+                "search": [
+                    "Adama",
+                    "Traor\u00e9",
+                    "Adama Traor\u00e9",
+                    "Traore",
+                    "Adama Traore"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p159533.png",
             "kit_number": "11",
@@ -46391,7 +48641,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alex",
-                "last": "Iwobi"
+                "last": "Iwobi",
+                "search": [
+                    "Alex",
+                    "Iwobi",
+                    "Alex Iwobi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153133.png",
             "kit_number": "17",
@@ -46600,7 +48855,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Sessegnon"
+                "last": "Sessegnon",
+                "search": [
+                    "Ryan",
+                    "Sessegnon",
+                    "Ryan Sessegnon"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184349.png",
             "kit_number": "30",
@@ -46736,7 +48996,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Emile",
-                "last": "Smith Rowe"
+                "last": "Smith Rowe",
+                "search": [
+                    "Emile",
+                    "Smith Rowe",
+                    "Emile Smith Rowe"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209289.png",
             "kit_number": "32",
@@ -46872,7 +49137,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jorge",
-                "last": "Cuenca"
+                "last": "Cuenca",
+                "search": [
+                    "Jorge",
+                    "Cuenca",
+                    "Jorge Cuenca"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p246301.png",
             "kit_number": "15",
@@ -46924,7 +49194,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alex",
-                "last": "Borto"
+                "last": "Borto",
+                "search": [
+                    "Alex",
+                    "Borto",
+                    "Alex Borto"
+                ]
             },
             "image": null,
             "kit_number": "36",
@@ -46998,7 +49273,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Martial",
-                "last": "Godo"
+                "last": "Godo",
+                "search": [
+                    "Martial",
+                    "Godo",
+                    "Martial Godo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p573062.png",
             "kit_number": "17",
@@ -47076,7 +49356,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sander",
-                "last": "Berge"
+                "last": "Berge",
+                "search": [
+                    "Sander",
+                    "Berge",
+                    "Sander Berge"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p207189.png",
             "kit_number": "16",
@@ -47171,7 +49456,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joachim",
-                "last": "Andersen"
+                "last": "Andersen",
+                "search": [
+                    "Joachim",
+                    "Andersen",
+                    "Joachim Andersen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p174874.png",
             "kit_number": "5",
@@ -47285,7 +49575,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Reiss",
-                "last": "Nelson"
+                "last": "Nelson",
+                "search": [
+                    "Reiss",
+                    "Nelson",
+                    "Reiss Nelson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200641.png",
             "kit_number": "19",
@@ -47439,7 +49734,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Christian",
-                "last": "Walton"
+                "last": "Walton",
+                "search": [
+                    "Christian",
+                    "Walton",
+                    "Christian Walton"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p108813.png",
             "kit_number": "28",
@@ -47581,7 +49881,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cieran",
-                "last": "Slicker"
+                "last": "Slicker",
+                "search": [
+                    "Cieran",
+                    "Slicker",
+                    "Cieran Slicker"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p434044.png",
             "kit_number": "13",
@@ -47672,7 +49977,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harry",
-                "last": "Clarke"
+                "last": "Clarke",
+                "search": [
+                    "Harry",
+                    "Clarke",
+                    "Harry Clarke"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232228.png",
             "kit_number": "2",
@@ -47740,7 +50050,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Leif",
-                "last": "Davis"
+                "last": "Davis",
+                "search": [
+                    "Leif",
+                    "Davis",
+                    "Leif Davis"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p455084.png",
             "kit_number": "3",
@@ -47840,7 +50155,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luke",
-                "last": "Woolfenden"
+                "last": "Woolfenden",
+                "search": [
+                    "Luke",
+                    "Woolfenden",
+                    "Luke Woolfenden"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220583.png",
             "kit_number": "6",
@@ -47892,7 +50212,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cameron",
-                "last": "Burgess"
+                "last": "Burgess",
+                "search": [
+                    "Cameron",
+                    "Burgess",
+                    "Cameron Burgess"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p122411.png",
             "kit_number": "15",
@@ -47944,7 +50269,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Axel",
-                "last": "Tuanzebe"
+                "last": "Tuanzebe",
+                "search": [
+                    "Axel",
+                    "Tuanzebe",
+                    "Axel Tuanzebe"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p180804.png",
             "kit_number": "40",
@@ -48121,7 +50451,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Janoi",
-                "last": "Donacien"
+                "last": "Donacien",
+                "search": [
+                    "Janoi",
+                    "Donacien",
+                    "Janoi Donacien"
+                ]
             },
             "image": null,
             "kit_number": "44",
@@ -48219,7 +50554,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sam",
-                "last": "Morsy"
+                "last": "Morsy",
+                "search": [
+                    "Sam",
+                    "Morsy",
+                    "Sam Morsy"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p74944.png",
             "kit_number": "5",
@@ -48269,7 +50609,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jack",
-                "last": "Taylor"
+                "last": "Taylor",
+                "search": [
+                    "Jack",
+                    "Taylor",
+                    "Jack Taylor"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231899.png",
             "kit_number": "14",
@@ -48319,7 +50664,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Massimo",
-                "last": "Luongo"
+                "last": "Luongo",
+                "search": [
+                    "Massimo",
+                    "Luongo",
+                    "Massimo Luongo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p106606.png",
             "kit_number": "25",
@@ -48412,7 +50762,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wes",
-                "last": "Burns"
+                "last": "Burns",
+                "search": [
+                    "Wes",
+                    "Burns",
+                    "Wes Burns"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p149929.png",
             "kit_number": "7",
@@ -48462,7 +50817,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Conor",
-                "last": "Chaplin"
+                "last": "Chaplin",
+                "search": [
+                    "Conor",
+                    "Chaplin",
+                    "Conor Chaplin"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p196411.png",
             "kit_number": "10",
@@ -48512,7 +50872,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ali",
-                "last": "Al-Hamadi"
+                "last": "Al-Hamadi",
+                "search": [
+                    "Ali",
+                    "Al-Hamadi",
+                    "Ali Al-Hamadi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462387.png",
             "kit_number": "16",
@@ -48562,7 +50927,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "George",
-                "last": "Hirst"
+                "last": "Hirst",
+                "search": [
+                    "George",
+                    "Hirst",
+                    "George Hirst"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222625.png",
             "kit_number": "27",
@@ -48669,7 +51039,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nathan",
-                "last": "Broadhead"
+                "last": "Broadhead",
+                "search": [
+                    "Nathan",
+                    "Broadhead",
+                    "Nathan Broadhead"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p173818.png",
             "kit_number": "33",
@@ -48790,7 +51165,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Omari",
-                "last": "Hutchinson"
+                "last": "Hutchinson",
+                "search": [
+                    "Omari",
+                    "Hutchinson",
+                    "Omari Hutchinson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p503301.png",
             "kit_number": "20",
@@ -48885,7 +51265,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jacob",
-                "last": "Greaves"
+                "last": "Greaves",
+                "search": [
+                    "Jacob",
+                    "Greaves",
+                    "Jacob Greaves"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p449429.png",
             "kit_number": "24",
@@ -48937,7 +51322,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Liam",
-                "last": "Delap"
+                "last": "Delap",
+                "search": [
+                    "Liam",
+                    "Delap",
+                    "Liam Delap"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463034.png",
             "kit_number": "19",
@@ -49030,7 +51420,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Arijanet",
-                "last": "Muric"
+                "last": "Muric",
+                "search": [
+                    "Arijanet",
+                    "Muric",
+                    "Arijanet Muric"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232917.png",
             "kit_number": "1",
@@ -49207,7 +51602,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ben",
-                "last": "Johnson"
+                "last": "Johnson",
+                "search": [
+                    "Ben",
+                    "Johnson",
+                    "Ben Johnson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222018.png",
             "kit_number": "18",
@@ -49366,7 +51766,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Conor",
-                "last": "Townsend"
+                "last": "Townsend",
+                "search": [
+                    "Conor",
+                    "Townsend",
+                    "Conor Townsend"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p108053.png",
             "kit_number": "22",
@@ -49465,7 +51870,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kalvin",
-                "last": "Phillips"
+                "last": "Phillips",
+                "search": [
+                    "Kalvin",
+                    "Phillips",
+                    "Kalvin Phillips"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p155405.png",
             "kit_number": "8",
@@ -49582,7 +51992,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sam",
-                "last": "Szmodics"
+                "last": "Szmodics",
+                "search": [
+                    "Sam",
+                    "Szmodics",
+                    "Sam Szmodics"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172453.png",
             "kit_number": "23",
@@ -49632,7 +52047,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jens",
-                "last": "Cajuste"
+                "last": "Cajuste",
+                "search": [
+                    "Jens",
+                    "Cajuste",
+                    "Jens Cajuste"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p454667.png",
             "kit_number": "12",
@@ -49682,7 +52102,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jack",
-                "last": "Clarke"
+                "last": "Clarke",
+                "search": [
+                    "Jack",
+                    "Clarke",
+                    "Jack Clarke"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p443261.png",
             "kit_number": "47",
@@ -49789,7 +52214,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dara",
-                "last": "O'Shea"
+                "last": "O'Shea",
+                "search": [
+                    "Dara",
+                    "O'Shea",
+                    "Dara O'Shea"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p216616.png",
             "kit_number": "26",
@@ -49888,7 +52318,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Chiedozie",
-                "last": "Ogbene"
+                "last": "Ogbene",
+                "search": [
+                    "Chiedozie",
+                    "Ogbene",
+                    "Chiedozie Ogbene"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p229164.png",
             "kit_number": "21",
@@ -49953,7 +52388,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Danny",
-                "last": "Ward"
+                "last": "Ward",
+                "search": [
+                    "Danny",
+                    "Ward",
+                    "Danny Ward"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p95463.png",
             "kit_number": "1",
@@ -50198,7 +52638,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mads",
-                "last": "Hermansen"
+                "last": "Hermansen",
+                "search": [
+                    "Mads",
+                    "Hermansen",
+                    "Mads Hermansen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p467189.png",
             "kit_number": "30",
@@ -50254,7 +52699,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jakub",
-                "last": "Stolarczyk"
+                "last": "Stolarczyk",
+                "search": [
+                    "Jakub",
+                    "Stolarczyk",
+                    "Jakub Stolarczyk"
+                ]
             },
             "image": null,
             "kit_number": "41",
@@ -50361,7 +52811,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "James",
-                "last": "Justin"
+                "last": "Justin",
+                "search": [
+                    "James",
+                    "Justin",
+                    "James Justin"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220627.png",
             "kit_number": "2",
@@ -50473,7 +52928,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wout",
-                "last": "Faes"
+                "last": "Faes",
+                "search": [
+                    "Wout",
+                    "Faes",
+                    "Wout Faes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p218218.png",
             "kit_number": "3",
@@ -50540,7 +53000,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Conor",
-                "last": "Coady"
+                "last": "Coady",
+                "search": [
+                    "Conor",
+                    "Coady",
+                    "Conor Coady"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p94147.png",
             "kit_number": "4",
@@ -50746,7 +53211,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ricardo",
-                "last": "Pereira"
+                "last": "Pereira",
+                "search": [
+                    "Ricardo",
+                    "Pereira",
+                    "Ricardo Pereira"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111931.png",
             "kit_number": "21",
@@ -50873,7 +53343,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jannik",
-                "last": "Vestergaard"
+                "last": "Vestergaard",
+                "search": [
+                    "Jannik",
+                    "Vestergaard",
+                    "Jannik Vestergaard"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p93100.png",
             "kit_number": "23",
@@ -51002,7 +53477,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harry",
-                "last": "Winks"
+                "last": "Winks",
+                "search": [
+                    "Harry",
+                    "Winks",
+                    "Harry Winks"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p157668.png",
             "kit_number": "8",
@@ -51207,7 +53687,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Hamza",
-                "last": "Choudhury"
+                "last": "Choudhury",
+                "search": [
+                    "Hamza",
+                    "Choudhury",
+                    "Hamza Choudhury"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p197469.png",
             "kit_number": "17",
@@ -51341,7 +53826,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wilfred",
-                "last": "Ndidi"
+                "last": "Ndidi",
+                "search": [
+                    "Wilfred",
+                    "Ndidi",
+                    "Wilfred Ndidi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p203341.png",
             "kit_number": "6",
@@ -51489,7 +53979,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kasey",
-                "last": "McAteer"
+                "last": "McAteer",
+                "search": [
+                    "Kasey",
+                    "McAteer",
+                    "Kasey McAteer"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p461587.png",
             "kit_number": "35",
@@ -51567,7 +54062,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Will",
-                "last": "Alves"
+                "last": "Alves",
+                "search": [
+                    "Will",
+                    "Alves",
+                    "Will Alves"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p532534.png",
             "kit_number": "37",
@@ -51645,7 +54145,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Arjan",
-                "last": "Raikhy"
+                "last": "Raikhy",
+                "search": [
+                    "Arjan",
+                    "Raikhy",
+                    "Arjan Raikhy"
+                ]
             },
             "image": null,
             "kit_number": "47",
@@ -51738,7 +54243,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jamie",
-                "last": "Vardy"
+                "last": "Vardy",
+                "search": [
+                    "Jamie",
+                    "Vardy",
+                    "Jamie Vardy"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101668.png",
             "kit_number": "9",
@@ -51933,7 +54443,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Stephy",
-                "last": "Mavididi"
+                "last": "Mavididi",
+                "search": [
+                    "Stephy",
+                    "Mavididi",
+                    "Stephy Mavididi"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154048.png",
             "kit_number": "10",
@@ -51998,7 +54513,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Patson",
-                "last": "Daka"
+                "last": "Daka",
+                "search": [
+                    "Patson",
+                    "Daka",
+                    "Patson Daka"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p245419.png",
             "kit_number": "20",
@@ -52076,7 +54596,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Daniel",
-                "last": "Iversen"
+                "last": "Iversen",
+                "search": [
+                    "Daniel",
+                    "Iversen",
+                    "Daniel Iversen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p207270.png",
             "kit_number": "1",
@@ -52183,7 +54708,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luke",
-                "last": "Thomas"
+                "last": "Thomas",
+                "search": [
+                    "Luke",
+                    "Thomas",
+                    "Luke Thomas"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244619.png",
             "kit_number": "33",
@@ -52311,7 +54841,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Boubakary",
-                "last": "Soumar\u00e9"
+                "last": "Soumar\u00e9",
+                "search": [
+                    "Boubakary",
+                    "Soumar\u00e9",
+                    "Boubakary Soumar\u00e9",
+                    "Soumare",
+                    "Boubakary Soumare"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p225902.png",
             "kit_number": "24",
@@ -52389,7 +54926,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Michael",
-                "last": "Golding"
+                "last": "Golding",
+                "search": [
+                    "Michael",
+                    "Golding",
+                    "Michael Golding"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p549640.png",
             "kit_number": "34",
@@ -52455,7 +54997,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bobby",
-                "last": "De Cordova-Reid"
+                "last": "De Cordova-Reid",
+                "search": [
+                    "Bobby",
+                    "De Cordova-Reid",
+                    "Bobby De Cordova-Reid"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p96994.png",
             "kit_number": "14",
@@ -52564,7 +55111,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Caleb",
-                "last": "Okoli"
+                "last": "Okoli",
+                "search": [
+                    "Caleb",
+                    "Okoli",
+                    "Caleb Okoli"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p473341.png",
             "kit_number": "5",
@@ -52616,7 +55168,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Abdul",
-                "last": "Fatawu"
+                "last": "Fatawu",
+                "search": [
+                    "Abdul",
+                    "Fatawu",
+                    "Abdul Fatawu"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p531442.png",
             "kit_number": "7",
@@ -52666,7 +55223,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Facundo",
-                "last": "Buonanotte"
+                "last": "Buonanotte",
+                "search": [
+                    "Facundo",
+                    "Buonanotte",
+                    "Facundo Buonanotte"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p536916.png",
             "kit_number": "40",
@@ -52746,7 +55308,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Oliver",
-                "last": "Skipp"
+                "last": "Skipp",
+                "search": [
+                    "Oliver",
+                    "Skipp",
+                    "Oliver Skipp"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209042.png",
             "kit_number": "22",
@@ -52882,7 +55449,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jordan",
-                "last": "Ayew"
+                "last": "Ayew",
+                "search": [
+                    "Jordan",
+                    "Ayew",
+                    "Jordan Ayew"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80146.png",
             "kit_number": "18",
@@ -53062,7 +55634,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bilal",
-                "last": "El Khannouss"
+                "last": "El Khannouss",
+                "search": [
+                    "Bilal",
+                    "El Khannouss",
+                    "Bilal El Khannouss"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513527.png",
             "kit_number": "11",
@@ -53112,7 +55689,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Odsonne",
-                "last": "\u00c9douard"
+                "last": "\u00c9douard",
+                "search": [
+                    "Odsonne",
+                    "\u00c9douard",
+                    "Odsonne \u00c9douard",
+                    "Edouard",
+                    "Odsonne Edouard"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199670.png",
             "kit_number": null,
@@ -53206,7 +55790,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alisson",
-                "last": "Becker"
+                "last": "Becker",
+                "search": [
+                    "Alisson",
+                    "Becker",
+                    "Alisson Becker"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p116535.png",
             "kit_number": "1",
@@ -53375,7 +55964,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Caoimh\u00edn",
-                "last": "Kelleher"
+                "last": "Kelleher",
+                "search": [
+                    "Caoimh\u00edn",
+                    "Kelleher",
+                    "Caoimh\u00edn Kelleher",
+                    "Caoimhin",
+                    "Caoimhin Kelleher"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200720.png",
             "kit_number": "62",
@@ -53550,7 +56146,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joe",
-                "last": "Gomez"
+                "last": "Gomez",
+                "search": [
+                    "Joe",
+                    "Gomez",
+                    "Joe Gomez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171287.png",
             "kit_number": "2",
@@ -53741,7 +56342,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Virgil",
-                "last": "van Dijk"
+                "last": "van Dijk",
+                "search": [
+                    "Virgil",
+                    "van Dijk",
+                    "Virgil van Dijk"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p97032.png",
             "kit_number": "4",
@@ -53940,7 +56546,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ibrahima",
-                "last": "Konat\u00e9"
+                "last": "Konat\u00e9",
+                "search": [
+                    "Ibrahima",
+                    "Konat\u00e9",
+                    "Ibrahima Konat\u00e9",
+                    "Konate",
+                    "Ibrahima Konate"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204716.png",
             "kit_number": "5",
@@ -54037,7 +56650,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kostas",
-                "last": "Tsimikas"
+                "last": "Tsimikas",
+                "search": [
+                    "Kostas",
+                    "Tsimikas",
+                    "Kostas Tsimikas"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p214285.png",
             "kit_number": "21",
@@ -54149,7 +56767,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Andy",
-                "last": "Robertson"
+                "last": "Robertson",
+                "search": [
+                    "Andy",
+                    "Robertson",
+                    "Andy Robertson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p122798.png",
             "kit_number": "26",
@@ -54341,7 +56964,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Trent",
-                "last": "Alexander-Arnold"
+                "last": "Alexander-Arnold",
+                "search": [
+                    "Trent",
+                    "Alexander-Arnold",
+                    "Trent Alexander-Arnold"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p169187.png",
             "kit_number": "66",
@@ -54539,7 +57167,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dominik",
-                "last": "Szoboszlai"
+                "last": "Szoboszlai",
+                "search": [
+                    "Dominik",
+                    "Szoboszlai",
+                    "Dominik Szoboszlai"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p424876.png",
             "kit_number": "8",
@@ -54603,7 +57236,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alexis",
-                "last": "Mac Allister"
+                "last": "Mac Allister",
+                "search": [
+                    "Alexis",
+                    "Mac Allister",
+                    "Alexis Mac Allister"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p243016.png",
             "kit_number": "10",
@@ -54743,7 +57381,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Curtis",
-                "last": "Jones"
+                "last": "Jones",
+                "search": [
+                    "Curtis",
+                    "Jones",
+                    "Curtis Jones"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p206915.png",
             "kit_number": "17",
@@ -54895,7 +57538,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harvey",
-                "last": "Elliott"
+                "last": "Elliott",
+                "search": [
+                    "Harvey",
+                    "Elliott",
+                    "Harvey Elliott"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444884.png",
             "kit_number": "19",
@@ -55030,7 +57678,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luis",
-                "last": "D\u00edaz"
+                "last": "D\u00edaz",
+                "search": [
+                    "Luis",
+                    "D\u00edaz",
+                    "Luis D\u00edaz",
+                    "Diaz",
+                    "Luis Diaz"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244731.png",
             "kit_number": "7",
@@ -55122,7 +57777,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Darwin",
-                "last": "N\u00fa\u00f1ez"
+                "last": "N\u00fa\u00f1ez",
+                "search": [
+                    "Darwin",
+                    "N\u00fa\u00f1ez",
+                    "Darwin N\u00fa\u00f1ez",
+                    "Nunez",
+                    "Darwin Nunez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p447203.png",
             "kit_number": "9",
@@ -55200,7 +57862,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mohamed",
-                "last": "Salah"
+                "last": "Salah",
+                "search": [
+                    "Mohamed",
+                    "Salah",
+                    "Mohamed Salah"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p118748.png",
             "kit_number": "11",
@@ -55420,7 +58087,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Cody",
-                "last": "Gakpo"
+                "last": "Gakpo",
+                "search": [
+                    "Cody",
+                    "Gakpo",
+                    "Cody Gakpo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p243298.png",
             "kit_number": "18",
@@ -55498,7 +58170,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Diogo",
-                "last": "Jota"
+                "last": "Jota",
+                "search": [
+                    "Diogo",
+                    "Jota",
+                    "Diogo Jota"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p194634.png",
             "kit_number": "20",
@@ -55638,7 +58315,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jarell",
-                "last": "Quansah"
+                "last": "Quansah",
+                "search": [
+                    "Jarell",
+                    "Quansah",
+                    "Jarell Quansah"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441428.png",
             "kit_number": "78",
@@ -55735,7 +58417,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Conor",
-                "last": "Bradley"
+                "last": "Bradley",
+                "search": [
+                    "Conor",
+                    "Bradley",
+                    "Conor Bradley"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p492777.png",
             "kit_number": "84",
@@ -55832,7 +58519,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Wataru",
-                "last": "Endo"
+                "last": "Endo",
+                "search": [
+                    "Wataru",
+                    "Endo",
+                    "Wataru Endo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p158983.png",
             "kit_number": "3",
@@ -55896,7 +58588,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ryan",
-                "last": "Gravenberch"
+                "last": "Gravenberch",
+                "search": [
+                    "Ryan",
+                    "Gravenberch",
+                    "Ryan Gravenberch"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441266.png",
             "kit_number": "38",
@@ -55960,7 +58657,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Amara",
-                "last": "Nallo"
+                "last": "Nallo",
+                "search": [
+                    "Amara",
+                    "Nallo",
+                    "Amara Nallo"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -56027,7 +58729,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tom",
-                "last": "Hill"
+                "last": "Hill",
+                "search": [
+                    "Tom",
+                    "Hill",
+                    "Tom Hill"
+                ]
             },
             "image": null,
             "kit_number": "83",
@@ -56147,7 +58854,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Treymaurice",
-                "last": "Nyoni"
+                "last": "Nyoni",
+                "search": [
+                    "Treymaurice",
+                    "Nyoni",
+                    "Treymaurice Nyoni"
+                ]
             },
             "image": null,
             "kit_number": null,
@@ -56211,7 +58923,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "V\u00edtezslav",
-                "last": "Jaros"
+                "last": "Jaros",
+                "search": [
+                    "V\u00edtezslav",
+                    "Jaros",
+                    "V\u00edtezslav Jaros",
+                    "Vitezslav",
+                    "Vitezslav Jaros"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432987.png",
             "kit_number": "56",
@@ -56352,7 +59071,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyler",
-                "last": "Morton"
+                "last": "Morton",
+                "search": [
+                    "Tyler",
+                    "Morton",
+                    "Tyler Morton"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440148.png",
             "kit_number": "15",
@@ -56444,7 +59168,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Federico",
-                "last": "Chiesa"
+                "last": "Chiesa",
+                "search": [
+                    "Federico",
+                    "Chiesa",
+                    "Federico Chiesa"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223541.png",
             "kit_number": "14",
@@ -56494,7 +59223,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tom",
-                "last": "Heaton"
+                "last": "Heaton",
+                "search": [
+                    "Tom",
+                    "Heaton",
+                    "Tom Heaton"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p21205.png",
             "kit_number": "22",
@@ -56791,7 +59525,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Andr\u00e9",
-                "last": "Onana"
+                "last": "Onana",
+                "search": [
+                    "Andr\u00e9",
+                    "Onana",
+                    "Andr\u00e9 Onana",
+                    "Andre",
+                    "Andre Onana"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p202641.png",
             "kit_number": "24",
@@ -56868,7 +59609,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Victor",
-                "last": "Lindel\u00f6f"
+                "last": "Lindel\u00f6f",
+                "search": [
+                    "Victor",
+                    "Lindel\u00f6f",
+                    "Victor Lindel\u00f6f",
+                    "Lindelof",
+                    "Victor Lindelof"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184667.png",
             "kit_number": "2",
@@ -57025,7 +59773,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harry",
-                "last": "Maguire"
+                "last": "Maguire",
+                "search": [
+                    "Harry",
+                    "Maguire",
+                    "Harry Maguire"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p95658.png",
             "kit_number": "5",
@@ -57219,7 +59972,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lisandro",
-                "last": "Mart\u00ednez"
+                "last": "Mart\u00ednez",
+                "search": [
+                    "Lisandro",
+                    "Mart\u00ednez",
+                    "Lisandro Mart\u00ednez",
+                    "Martinez",
+                    "Lisandro Martinez"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p221820.png",
             "kit_number": "6",
@@ -57301,7 +60061,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tyrell",
-                "last": "Malacia"
+                "last": "Malacia",
+                "search": [
+                    "Tyrell",
+                    "Malacia",
+                    "Tyrell Malacia"
+                ]
             },
             "image": null,
             "kit_number": "12",
@@ -57383,7 +60148,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Diogo",
-                "last": "Dalot"
+                "last": "Dalot",
+                "search": [
+                    "Diogo",
+                    "Dalot",
+                    "Diogo Dalot"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p216051.png",
             "kit_number": "20",
@@ -57525,7 +60295,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Luke",
-                "last": "Shaw"
+                "last": "Shaw",
+                "search": [
+                    "Luke",
+                    "Shaw",
+                    "Luke Shaw"
+                ]
             },
             "image": null,
             "kit_number": "23",
@@ -57758,7 +60533,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jonny",
-                "last": "Evans"
+                "last": "Evans",
+                "search": [
+                    "Jonny",
+                    "Evans",
+                    "Jonny Evans"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p37642.png",
             "kit_number": "35",
@@ -58091,7 +60871,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Toby",
-                "last": "Collyer"
+                "last": "Collyer",
+                "search": [
+                    "Toby",
+                    "Collyer",
+                    "Toby Collyer"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p490881.png",
             "kit_number": "43",
@@ -58155,7 +60940,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mason",
-                "last": "Mount"
+                "last": "Mount",
+                "search": [
+                    "Mason",
+                    "Mount",
+                    "Mason Mount"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184341.png",
             "kit_number": "7",
@@ -58277,7 +61067,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bruno",
-                "last": "Fernandes"
+                "last": "Fernandes",
+                "search": [
+                    "Bruno",
+                    "Fernandes",
+                    "Bruno Fernandes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p141746.png",
             "kit_number": "8",
@@ -58409,7 +61204,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Christian",
-                "last": "Eriksen"
+                "last": "Eriksen",
+                "search": [
+                    "Christian",
+                    "Eriksen",
+                    "Christian Eriksen"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80607.png",
             "kit_number": "14",
@@ -58606,7 +61406,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Casemiro"
+                "last": "Casemiro",
+                "search": [
+                    null,
+                    "Casemiro",
+                    "Casemiro"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p61256.png",
             "kit_number": "18",
@@ -58684,7 +61489,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Daniel",
-                "last": "Gore"
+                "last": "Gore",
+                "search": [
+                    "Daniel",
+                    "Gore",
+                    "Daniel Gore"
+                ]
             },
             "image": null,
             "kit_number": "44",
@@ -58763,7 +61573,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kobbie",
-                "last": "Mainoo"
+                "last": "Mainoo",
+                "search": [
+                    "Kobbie",
+                    "Mainoo",
+                    "Kobbie Mainoo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p516895.png",
             "kit_number": "37",
@@ -58845,7 +61660,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Rasmus",
-                "last": "H\u00f8jlund"
+                "last": "H\u00f8jlund",
+                "search": [
+                    "Rasmus",
+                    "H\u00f8jlund",
+                    "Rasmus H\u00f8jlund",
+                    "Hojlund",
+                    "Rasmus Hojlund"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p497894.png",
             "kit_number": "9",
@@ -58913,7 +61735,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Marcus",
-                "last": "Rashford"
+                "last": "Rashford",
+                "search": [
+                    "Marcus",
+                    "Rashford",
+                    "Marcus Rashford"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p176297.png",
             "kit_number": "10",
@@ -59099,7 +61926,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Amad",
-                "last": "Diallo"
+                "last": "Diallo",
+                "search": [
+                    "Amad",
+                    "Diallo",
+                    "Amad Diallo"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p493250.png",
             "kit_number": "16",
@@ -59205,7 +62037,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Antony"
+                "last": "Antony",
+                "search": [
+                    null,
+                    "Antony",
+                    "Antony"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p467169.png",
             "kit_number": "21",
@@ -59283,7 +62120,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alejandro",
-                "last": "Garnacho"
+                "last": "Garnacho",
+                "search": [
+                    "Alejandro",
+                    "Garnacho",
+                    "Alejandro Garnacho"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p493105.png",
             "kit_number": "17",
@@ -59382,7 +62224,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Altay",
-                "last": "Bayindir"
+                "last": "Bayindir",
+                "search": [
+                    "Altay",
+                    "Bayindir",
+                    "Altay Bayindir"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p451302.png",
             "kit_number": "1",
@@ -59455,7 +62302,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harry",
-                "last": "Amass"
+                "last": "Amass",
+                "search": [
+                    "Harry",
+                    "Amass",
+                    "Harry Amass"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p577974.png",
             "kit_number": "41",
@@ -59523,7 +62375,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Ethan",
-                "last": "Wheatley"
+                "last": "Wheatley",
+                "search": [
+                    "Ethan",
+                    "Wheatley",
+                    "Ethan Wheatley"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p575034.png",
             "kit_number": "84",
@@ -59587,7 +62444,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joshua",
-                "last": "Zirkzee"
+                "last": "Zirkzee",
+                "search": [
+                    "Joshua",
+                    "Zirkzee",
+                    "Joshua Zirkzee"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p458249.png",
             "kit_number": "11",
@@ -59637,7 +62499,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Leny",
-                "last": "Yoro"
+                "last": "Yoro",
+                "search": [
+                    "Leny",
+                    "Yoro",
+                    "Leny Yoro"
+                ]
             },
             "image": null,
             "kit_number": "15",
@@ -59689,7 +62556,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Noussair",
-                "last": "Mazraoui"
+                "last": "Mazraoui",
+                "search": [
+                    "Noussair",
+                    "Mazraoui",
+                    "Noussair Mazraoui"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p230001.png",
             "kit_number": "3",
@@ -59741,7 +62613,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matthijs",
-                "last": "de Ligt"
+                "last": "de Ligt",
+                "search": [
+                    "Matthijs",
+                    "de Ligt",
+                    "Matthijs de Ligt"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209365.png",
             "kit_number": "4",
@@ -59793,7 +62670,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Manuel",
-                "last": "Ugarte"
+                "last": "Ugarte",
+                "search": [
+                    "Manuel",
+                    "Ugarte",
+                    "Manuel Ugarte"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232112.png",
             "kit_number": "25",
@@ -59843,7 +62725,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Martin",
-                "last": "D\u00fabravka"
+                "last": "D\u00fabravka",
+                "search": [
+                    "Martin",
+                    "D\u00fabravka",
+                    "Martin D\u00fabravka",
+                    "Dubravka",
+                    "Martin Dubravka"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p67089.png",
             "kit_number": "1",
@@ -60020,7 +62909,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Nick",
-                "last": "Pope"
+                "last": "Pope",
+                "search": [
+                    "Nick",
+                    "Pope",
+                    "Nick Pope"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98747.png",
             "kit_number": "22",
@@ -60218,7 +63112,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Mark",
-                "last": "Gillespie"
+                "last": "Gillespie",
+                "search": [
+                    "Mark",
+                    "Gillespie",
+                    "Mark Gillespie"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p81441.png",
             "kit_number": "29",
@@ -60343,7 +63242,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Kieran",
-                "last": "Trippier"
+                "last": "Trippier",
+                "search": [
+                    "Kieran",
+                    "Trippier",
+                    "Kieran Trippier"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p77794.png",
             "kit_number": "2",
@@ -60578,7 +63482,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sven",
-                "last": "Botman"
+                "last": "Botman",
+                "search": [
+                    "Sven",
+                    "Botman",
+                    "Sven Botman"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220237.png",
             "kit_number": "4",
@@ -60660,7 +63569,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Fabian",
-                "last": "Sch\u00e4r"
+                "last": "Sch\u00e4r",
+                "search": [
+                    "Fabian",
+                    "Sch\u00e4r",
+                    "Fabian Sch\u00e4r",
+                    "Schar",
+                    "Fabian Schar"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p119471.png",
             "kit_number": "5",
@@ -60806,7 +63722,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jamaal",
-                "last": "Lascelles"
+                "last": "Lascelles",
+                "search": [
+                    "Jamaal",
+                    "Lascelles",
+                    "Jamaal Lascelles"
+                ]
             },
             "image": null,
             "kit_number": "6",
@@ -60993,7 +63914,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Matt",
-                "last": "Targett"
+                "last": "Targett",
+                "search": [
+                    "Matt",
+                    "Targett",
+                    "Matt Targett"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p169359.png",
             "kit_number": "13",
@@ -61217,7 +64143,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Emil",
-                "last": "Krafth"
+                "last": "Krafth",
+                "search": [
+                    "Emil",
+                    "Krafth",
+                    "Emil Krafth"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111773.png",
             "kit_number": "17",
@@ -61344,7 +64275,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Tino",
-                "last": "Livramento"
+                "last": "Livramento",
+                "search": [
+                    "Tino",
+                    "Livramento",
+                    "Tino Livramento"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441191.png",
             "kit_number": "21",
@@ -61458,7 +64394,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Dan",
-                "last": "Burn"
+                "last": "Burn",
+                "search": [
+                    "Dan",
+                    "Burn",
+                    "Dan Burn"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p78916.png",
             "kit_number": "33",
@@ -61649,7 +64590,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Isaac",
-                "last": "Hayden"
+                "last": "Hayden",
+                "search": [
+                    "Isaac",
+                    "Hayden",
+                    "Isaac Hayden"
+                ]
             },
             "image": null,
             "kit_number": "14",
@@ -61826,7 +64772,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sandro",
-                "last": "Tonali"
+                "last": "Tonali",
+                "search": [
+                    "Sandro",
+                    "Tonali",
+                    "Sandro Tonali"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432422.png",
             "kit_number": "8",
@@ -61890,7 +64841,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Harvey",
-                "last": "Barnes"
+                "last": "Barnes",
+                "search": [
+                    "Harvey",
+                    "Barnes",
+                    "Harvey Barnes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p201666.png",
             "kit_number": "11",
@@ -62057,7 +65013,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Jacob",
-                "last": "Murphy"
+                "last": "Murphy",
+                "search": [
+                    "Jacob",
+                    "Murphy",
+                    "Jacob Murphy"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p114243.png",
             "kit_number": "23",
@@ -62234,7 +65195,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Miguel",
-                "last": "Almir\u00f3n"
+                "last": "Almir\u00f3n",
+                "search": [
+                    "Miguel",
+                    "Almir\u00f3n",
+                    "Miguel Almir\u00f3n",
+                    "Almiron",
+                    "Miguel Almiron"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p179018.png",
             "kit_number": "24",
@@ -62376,7 +65344,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Joe",
-                "last": "Willock"
+                "last": "Willock",
+                "search": [
+                    "Joe",
+                    "Willock",
+                    "Joe Willock"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200089.png",
             "kit_number": "28",
@@ -62531,7 +65504,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Sean",
-                "last": "Longstaff"
+                "last": "Longstaff",
+                "search": [
+                    "Sean",
+                    "Longstaff",
+                    "Sean Longstaff"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p180135.png",
             "kit_number": "36",
@@ -62665,7 +65643,14 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Bruno",
-                "last": "Guimar\u00e3es"
+                "last": "Guimar\u00e3es",
+                "search": [
+                    "Bruno",
+                    "Guimar\u00e3es",
+                    "Bruno Guimar\u00e3es",
+                    "Guimaraes",
+                    "Bruno Guimaraes"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p208706.png",
             "kit_number": "39",
@@ -62757,7 +65742,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lewis",
-                "last": "Miley"
+                "last": "Miley",
+                "search": [
+                    "Lewis",
+                    "Miley",
+                    "Lewis Miley"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p547719.png",
             "kit_number": "67",
@@ -62835,7 +65825,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": null,
-                "last": "Joelinton"
+                "last": "Joelinton",
+                "search": [
+                    null,
+                    "Joelinton",
+                    "Joelinton"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p180974.png",
             "kit_number": "7",
@@ -62955,7 +65950,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Callum",
-                "last": "Wilson"
+                "last": "Wilson",
+                "search": [
+                    "Callum",
+                    "Wilson",
+                    "Callum Wilson"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p75115.png",
             "kit_number": "9",
@@ -63132,7 +66132,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Anthony",
-                "last": "Gordon"
+                "last": "Gordon",
+                "search": [
+                    "Anthony",
+                    "Gordon",
+                    "Anthony Gordon"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232826.png",
             "kit_number": "10",
@@ -63282,7 +66287,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alexander",
-                "last": "Isak"
+                "last": "Isak",
+                "search": [
+                    "Alexander",
+                    "Isak",
+                    "Alexander Isak"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219168.png",
             "kit_number": "14",
@@ -63360,7 +66370,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Alex",
-                "last": "Murphy"
+                "last": "Murphy",
+                "search": [
+                    "Alex",
+                    "Murphy",
+                    "Alex Murphy"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p545477.png",
             "kit_number": "37",
@@ -63427,7 +66442,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Garang",
-                "last": "Kuol"
+                "last": "Kuol",
+                "search": [
+                    "Garang",
+                    "Kuol",
+                    "Garang Kuol"
+                ]
             },
             "image": null,
             "kit_number": "38",
@@ -63505,7 +66525,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lloyd",
-                "last": "Kelly"
+                "last": "Kelly",
+                "search": [
+                    "Lloyd",
+                    "Kelly",
+                    "Lloyd Kelly"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p235530.png",
             "kit_number": "25",
@@ -63604,7 +66629,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "John",
-                "last": "Ruddy"
+                "last": "Ruddy",
+                "search": [
+                    "John",
+                    "Ruddy",
+                    "John Ruddy"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p19236.png",
             "kit_number": "26",
@@ -63901,7 +66931,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Odysseas",
-                "last": "Vlachodimos"
+                "last": "Vlachodimos",
+                "search": [
+                    "Odysseas",
+                    "Vlachodimos",
+                    "Odysseas Vlachodimos"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111452.png",
             "kit_number": "19",
@@ -63976,7 +67011,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "Lewis",
-                "last": "Hall"
+                "last": "Hall",
+                "search": [
+                    "Lewis",
+                    "Hall",
+                    "Lewis Hall"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p487838.png",
             "kit_number": "20",
@@ -64076,7 +67116,12 @@ const playersRaw = [
         "personal_details": {
             "name": {
                 "first": "William",
-                "last": "Osula"
+                "last": "Osula",
+                "search": [
+                    "William",
+                    "Osula",
+                    "William Osula"
+                ]
             },
             "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p538207.png",
             "kit_number": "18",
