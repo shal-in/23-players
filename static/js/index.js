@@ -118,6 +118,19 @@ function prepareGame() {
 
     gameState = "prepare";
 
+    fetch("/api/new-game")
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok ' + response.statusText);
+        }
+        return response.json();
+    })
+    .then(data => {
+        questions = data;
+    })
+    .catch((error) => {
+        console.error('Error:', error);  // Handle any errors
+    });
 }
 
 function startGame() {
@@ -140,17 +153,16 @@ function startGame() {
 
 let currentQuestionIndex = 0;
 let questionSolved = false;
-let questionKeys = Object.keys(exampleQuestions); // Array of the question keys
 let solutions;
 let resultsData = [];
 let serverData = {"questions": [], "score": {"timeBonus": 0, "total": 0}};
 let startTime;
+let questions;
 
 const promptEl = document.querySelector("#game-wrapper .title");
 function loadQuestion(index) {
-    if (index < questionKeys.length) {
-        let questionKey = questionKeys[index];  // Get the key for the current question
-        let question = exampleQuestions[questionKey];  // Access the question using the key
+    if (index < 23) {
+        let question = questions[index];
         
         let prompt = question["prompt"]
         promptEl.textContent = prompt;
@@ -174,7 +186,7 @@ function loadQuestion(index) {
 function nextQuestion() {
     if (questionSolved) {
         currentQuestionIndex++;
-        if (currentQuestionIndex < questionKeys.length) {
+        if (currentQuestionIndex < 23) {
             questionSolved = false;
             loadQuestion(currentQuestionIndex);
         } else {
@@ -191,6 +203,31 @@ function stopGame() {
     clearInterval(timerInterval);
 
     showResults();
+
+    console.log(serverData);
+
+    // Send a POST request to the Flask server
+    fetch('/api/submit-results', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'  // Indicate the type of data being sent
+        },
+        body: JSON.stringify(serverData)  // Convert data object to JSON string
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok ' + response.statusText);
+        }
+        return response.json();
+    })
+    .then(data => {
+
+    })
+    .catch((error) => {
+        console.error('Error:', error);  // Handle any errors
+    });
+
+    
 };
 
 const resultsWrapper = document.querySelector("#results-wrapper");
@@ -202,9 +239,6 @@ const timeBonusEl = document.querySelector("#results-wrapper .time-bonus");
 async function showResults() {
     gameWrapper.classList.remove("active");
     resultsWrapper.classList.add("active");
-
-    console.log(serverData);
-    console.log(resultsData);
 
     for (let i = 0; i < 24; i++) {
         await new Promise(resolve => {
@@ -243,8 +277,6 @@ async function showResults() {
             }, i < resultsData.length ? 400 : 150); // Different delay for each condition
         });
     };
-
-    console.log(serverData);
 }
 
 function calculateNamePoints(name) {

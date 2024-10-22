@@ -80,6 +80,8 @@ function updatePlayersList() {
 
     if (inputString.length < 2) {return}
 
+
+
     players.forEach(player => {
         let searchList = player["name"]["search"];
 
@@ -103,7 +105,6 @@ function updatePlayersList() {
 function playerListElementClick(player) {
     let playerData = JSON.parse(player.getAttribute("player-data"));
     let playerId = playerData["player_id"];
-    let questionKey = questionKeys[currentQuestionIndex];
 
     let endTime = timeLeft;
     let elapsedTime = startTime - endTime;
